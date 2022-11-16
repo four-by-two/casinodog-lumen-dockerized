@@ -1,0 +1,31 @@
+## on error chown:
+First determine the uid of the www-data user:
+
+$ docker exec DOCKER_CONTAINER_ID id
+uid=100(www-data) gid=101(www-data) groups=101(www-data)
+
+Then, on your docker host, change the owner of the mounted directory using the uid (100 in this example):
+
+chown -R 100 ./
+
+# or:
+echo 'export DOCKER_USER="$(id -u):$(id -g)"' >> ~/.bash_profile
+
+source ~/.bash_profile
+
+docker-compose up
+
+# or:
+rw to the end of the volume mount worked for me:
+
+services:
+    httpd:
+        image: apache-image
+        ports:
+            - "80:80"
+        volumes:
+            - "./:/var/www/app:rw"
+        links:
+            - redis
+        command: /setupApacheRights.sh
+

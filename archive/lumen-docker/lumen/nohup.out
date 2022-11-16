@@ -1,0 +1,1788 @@
+[Thu Nov 10 08:50:18 2022] PHP 8.1.9 Development Server (http://0.0.0.0:8077) started
+[Thu Nov 10 08:50:22 2022] PHP 8.1.9 Development Server (http://0.0.0.0:8077) started
+[Thu Nov 10 08:50:23 2022] 127.0.0.1:36634 Accepted
+[Thu Nov 10 08:50:23 2022] 127.0.0.1:36634 [200]: GET /
+[Thu Nov 10 08:50:23 2022] 127.0.0.1:36634 Closing
+[Thu Nov 10 09:30:30 2022] 127.0.0.1:36636 Accepted
+[Thu Nov 10 09:30:30 2022] 127.0.0.1:36636 [200]: GET /
+[Thu Nov 10 09:30:30 2022] 127.0.0.1:36636 Closing
+[Thu Nov 10 09:30:30 2022] 127.0.0.1:36638 Accepted
+[Thu Nov 10 09:30:30 2022] 127.0.0.1:36638 [200]: GET /
+[Thu Nov 10 09:30:30 2022] 127.0.0.1:36638 Closing
+[Thu Nov 10 10:25:49 2022] PHP 8.1.9 Development Server (http://127.0.0.1:1234) started
+[Thu Nov 10 10:25:51 2022] PHP 8.1.9 Development Server (http://127.0.0.1:1234) started
+[Thu Nov 10 10:26:32 2022] 127.0.0.1:37152 Accepted
+[Thu Nov 10 10:26:33 2022] 127.0.0.1:37152 [404]: GET /api/commando
+[Thu Nov 10 10:26:33 2022] 127.0.0.1:37152 Closing
+[Thu Nov 10 10:26:33 2022] 127.0.0.1:37154 Accepted
+[Thu Nov 10 10:26:33 2022] 127.0.0.1:37154 [404]: GET /api/commando
+[Thu Nov 10 10:26:33 2022] 127.0.0.1:37154 Closing
+[Thu Nov 10 10:26:33 2022] 127.0.0.1:37156 Accepted
+[Thu Nov 10 10:26:33 2022] 127.0.0.1:37156 [404]: GET /api/commando
+[Thu Nov 10 10:26:33 2022] 127.0.0.1:37156 Closing
+[Thu Nov 10 10:29:06 2022] 127.0.0.1:37158 Accepted
+[Thu Nov 10 10:29:06 2022] 127.0.0.1:37158 [404]: GET /api/commando
+[Thu Nov 10 10:29:06 2022] 127.0.0.1:37158 Closing
+[Thu Nov 10 10:29:07 2022] 127.0.0.1:37160 Accepted
+[Thu Nov 10 10:29:07 2022] 127.0.0.1:37160 [200]: GET /
+[Thu Nov 10 10:29:07 2022] 127.0.0.1:37160 Closing
+[Thu Nov 10 10:29:26 2022] 127.0.0.1:37162 Accepted
+[Thu Nov 10 10:29:26 2022] 127.0.0.1:37162 [500]: GET /api/commando
+[Thu Nov 10 10:29:26 2022] 127.0.0.1:37162 Closing
+[Thu Nov 10 10:30:14 2022] 127.0.0.1:37164 Accepted
+[Thu Nov 10 10:30:14 2022] 127.0.0.1:37164 [500]: GET /api/commando
+[Thu Nov 10 10:30:14 2022] 127.0.0.1:37164 Closing
+[Thu Nov 10 10:33:33 2022] 127.0.0.1:37166 Accepted
+[Thu Nov 10 10:33:33 2022] 127.0.0.1:37166 [500]: GET /api/commando
+[Thu Nov 10 10:33:33 2022] 127.0.0.1:37166 Closing
+[Thu Nov 10 10:36:44 2022] 127.0.0.1:37168 Accepted
+[Thu Nov 10 10:36:44 2022] 127.0.0.1:37168 [500]: GET /api/commando
+[Thu Nov 10 10:36:44 2022] 127.0.0.1:37168 Closing
+[Thu Nov 10 10:47:27 2022] 127.0.0.1:37172 Accepted
+[Thu Nov 10 10:47:27 2022] 127.0.0.1:37172 [500]: GET /api/commando
+[Thu Nov 10 10:47:27 2022] 127.0.0.1:37172 Closing
+[Thu Nov 10 10:48:22 2022] 127.0.0.1:37174 Accepted
+[Thu Nov 10 10:48:22 2022] 127.0.0.1:37174 [500]: GET /api/commando
+[Thu Nov 10 10:48:22 2022] 127.0.0.1:37174 Closing
+[Thu Nov 10 10:48:23 2022] 127.0.0.1:37176 Accepted
+[Thu Nov 10 10:48:23 2022] 127.0.0.1:37176 [500]: GET /api/commando
+[Thu Nov 10 10:48:23 2022] 127.0.0.1:37176 Closing
+[Thu Nov 10 10:48:29 2022] 127.0.0.1:37178 Accepted
+[Thu Nov 10 10:48:29 2022] 127.0.0.1:37178 [500]: GET /api/commando
+[Thu Nov 10 10:48:29 2022] 127.0.0.1:37178 Closing
+[Thu Nov 10 10:48:30 2022] 127.0.0.1:37180 Accepted
+[Thu Nov 10 10:48:30 2022] 127.0.0.1:37180 [500]: GET /api/commando
+[Thu Nov 10 10:48:30 2022] 127.0.0.1:37180 Closing
+[Thu Nov 10 10:48:31 2022] 127.0.0.1:37182 Accepted
+[Thu Nov 10 10:48:31 2022] 127.0.0.1:37182 [500]: GET /api/commando
+[Thu Nov 10 10:48:31 2022] 127.0.0.1:37182 Closing
+[Thu Nov 10 10:55:16 2022] PHP 8.1.9 Development Server (http://127.0.0.1:1234) started
+[Thu Nov 10 10:55:19 2022] PHP 8.1.9 Development Server (http://127.0.0.1:1234) started
+[Thu Nov 10 10:56:03 2022] Failed to listen on 127.0.0.1:1234 (reason: Address already in use)
+[Thu Nov 10 10:56:10 2022] 127.0.0.1:37208 Accepted
+[Thu Nov 10 10:56:10 2022] 127.0.0.1:37208 [500]: GET /api/commando
+[Thu Nov 10 10:56:10 2022] 127.0.0.1:37208 Closing
+[Thu Nov 10 10:57:50 2022] 127.0.0.1:37210 Accepted
+[Thu Nov 10 10:57:50 2022] 127.0.0.1:37210 [500]: GET /api/commando
+[Thu Nov 10 10:57:50 2022] 127.0.0.1:37210 Closing
+[Thu Nov 10 10:57:51 2022] 127.0.0.1:37212 Accepted
+[Thu Nov 10 10:57:51 2022] 127.0.0.1:37212 [500]: GET /api/commando
+[Thu Nov 10 10:57:51 2022] 127.0.0.1:37212 Closing
+[Thu Nov 10 10:57:51 2022] 127.0.0.1:37214 Accepted
+[Thu Nov 10 10:57:51 2022] 127.0.0.1:37214 [500]: GET /api/commando
+[Thu Nov 10 10:57:51 2022] 127.0.0.1:37214 Closing
+[Thu Nov 10 10:57:51 2022] 127.0.0.1:37216 Accepted
+[Thu Nov 10 10:57:51 2022] 127.0.0.1:37216 [500]: GET /api/commando
+[Thu Nov 10 10:57:51 2022] 127.0.0.1:37216 Closing
+[Thu Nov 10 10:57:51 2022] 127.0.0.1:37218 Accepted
+[Thu Nov 10 10:57:51 2022] 127.0.0.1:37218 [500]: GET /api/commando
+[Thu Nov 10 10:57:51 2022] 127.0.0.1:37218 Closing
+[Thu Nov 10 11:09:12 2022] 127.0.0.1:37220 Accepted
+[Thu Nov 10 11:09:12 2022] 127.0.0.1:37220 [500]: GET /api/commando
+[Thu Nov 10 11:09:12 2022] 127.0.0.1:37220 Closing
+[Thu Nov 10 11:09:12 2022] 127.0.0.1:37222 Accepted
+[Thu Nov 10 11:09:12 2022] 127.0.0.1:37222 [500]: GET /api/commando
+[Thu Nov 10 11:09:12 2022] 127.0.0.1:37222 Closing
+[Thu Nov 10 11:09:18 2022] 127.0.0.1:37224 Accepted
+[Thu Nov 10 11:09:18 2022] 127.0.0.1:37224 [500]: GET /api/commando
+[Thu Nov 10 11:09:18 2022] 127.0.0.1:37224 Closing
+[Thu Nov 10 11:25:10 2022] 127.0.0.1:37226 Accepted
+[Thu Nov 10 11:25:11 2022] 127.0.0.1:37226 [500]: GET /api/commando
+[Thu Nov 10 11:25:11 2022] 127.0.0.1:37226 Closing
+[Thu Nov 10 11:28:46 2022] 127.0.0.1:37228 Accepted
+[Thu Nov 10 11:28:46 2022] 127.0.0.1:37228 [200]: GET /
+[Thu Nov 10 11:28:46 2022] 127.0.0.1:37228 Closing
+[Thu Nov 10 11:28:47 2022] 127.0.0.1:37230 Accepted
+[Thu Nov 10 11:28:47 2022] 127.0.0.1:37230 [500]: GET /api/commando
+[Thu Nov 10 11:28:47 2022] 127.0.0.1:37230 Closing
+[Thu Nov 10 11:37:15 2022] 127.0.0.1:37232 Accepted
+[Thu Nov 10 11:37:15 2022] 127.0.0.1:37232 [500]: GET /api/commando
+[Thu Nov 10 11:37:15 2022] 127.0.0.1:37232 Closing
+[Thu Nov 10 11:37:59 2022] 127.0.0.1:37234 Accepted
+[Thu Nov 10 11:37:59 2022] 127.0.0.1:37234 [200]: GET /
+[Thu Nov 10 11:37:59 2022] 127.0.0.1:37234 Closing
+[Thu Nov 10 11:38:00 2022] 127.0.0.1:37236 Accepted
+[Thu Nov 10 11:38:00 2022] 127.0.0.1:37236 [500]: GET /api/commando
+[Thu Nov 10 11:38:00 2022] 127.0.0.1:37236 Closing
+[Thu Nov 10 11:38:03 2022] 127.0.0.1:37238 Accepted
+[Thu Nov 10 11:38:03 2022] 127.0.0.1:37238 [500]: GET /api/commando
+[Thu Nov 10 11:38:03 2022] 127.0.0.1:37238 Closing
+[Thu Nov 10 11:38:03 2022] 127.0.0.1:37240 Accepted
+[Thu Nov 10 11:38:03 2022] 127.0.0.1:37240 [500]: GET /api/commando
+[Thu Nov 10 11:38:03 2022] 127.0.0.1:37240 Closing
+[Thu Nov 10 11:53:59 2022] 127.0.0.1:37242 Accepted
+[Thu Nov 10 11:53:59 2022] 127.0.0.1:37242 [500]: GET /api/commando
+[Thu Nov 10 11:53:59 2022] 127.0.0.1:37242 Closing
+[Thu Nov 10 11:53:59 2022] 127.0.0.1:37244 Accepted
+[Thu Nov 10 11:53:59 2022] 127.0.0.1:37244 [500]: GET /api/commando
+[Thu Nov 10 11:53:59 2022] 127.0.0.1:37244 Closing
+[Thu Nov 10 11:54:03 2022] 127.0.0.1:37246 Accepted
+[Thu Nov 10 11:54:03 2022] 127.0.0.1:37246 [500]: GET /api/commando
+[Thu Nov 10 11:54:03 2022] 127.0.0.1:37246 Closing
+[Thu Nov 10 11:54:16 2022] 127.0.0.1:37248 Accepted
+[Thu Nov 10 11:54:16 2022] 127.0.0.1:37248 [500]: GET /api/commando
+[Thu Nov 10 11:54:16 2022] 127.0.0.1:37248 Closing
+[Thu Nov 10 11:54:36 2022] 127.0.0.1:37250 Accepted
+[Thu Nov 10 11:54:36 2022] 127.0.0.1:37250 [500]: GET /api/commando
+[Thu Nov 10 11:54:36 2022] 127.0.0.1:37250 Closing
+[Thu Nov 10 11:54:46 2022] 127.0.0.1:37252 Accepted
+[Thu Nov 10 11:54:47 2022] 127.0.0.1:37252 [500]: GET /api/commando
+[Thu Nov 10 11:54:47 2022] 127.0.0.1:37252 Closing
+[Thu Nov 10 11:56:28 2022] 127.0.0.1:37254 Accepted
+[Thu Nov 10 11:56:28 2022] 127.0.0.1:37254 [200]: GET /
+[Thu Nov 10 11:56:28 2022] 127.0.0.1:37254 Closing
+[Thu Nov 10 11:56:45 2022] 127.0.0.1:37256 Accepted
+[Thu Nov 10 11:56:45 2022] 127.0.0.1:37256 [500]: GET /api/commando
+[Thu Nov 10 11:56:45 2022] 127.0.0.1:37256 Closing
+[Thu Nov 10 11:56:52 2022] 127.0.0.1:37258 Accepted
+[Thu Nov 10 11:56:52 2022] 127.0.0.1:37258 [200]: GET /api/commando
+[Thu Nov 10 11:56:52 2022] 127.0.0.1:37258 Closing
+[Thu Nov 10 11:57:05 2022] 127.0.0.1:37260 Accepted
+[Thu Nov 10 11:57:05 2022] 127.0.0.1:37260 [200]: GET /api/commando
+[Thu Nov 10 11:57:05 2022] 127.0.0.1:37260 Closing
+[Thu Nov 10 11:57:05 2022] 127.0.0.1:37262 Accepted
+[Thu Nov 10 11:57:05 2022] 127.0.0.1:37262 [200]: GET /api/commando
+[Thu Nov 10 11:57:05 2022] 127.0.0.1:37262 Closing
+[Thu Nov 10 11:57:09 2022] 127.0.0.1:37266 Accepted
+[Thu Nov 10 11:57:09 2022] 127.0.0.1:37266 [200]: GET /api/commando
+[Thu Nov 10 11:57:09 2022] 127.0.0.1:37266 Closing
+[Thu Nov 10 11:57:09 2022] 127.0.0.1:37268 Accepted
+[Thu Nov 10 11:57:09 2022] 127.0.0.1:37268 [200]: GET /api/commando
+[Thu Nov 10 11:57:09 2022] 127.0.0.1:37268 Closing
+[Thu Nov 10 11:57:13 2022] 127.0.0.1:37270 Accepted
+[Thu Nov 10 11:57:13 2022] 127.0.0.1:37270 [422]: POST /api/commando
+[Thu Nov 10 11:57:13 2022] 127.0.0.1:37270 Closing
+[Thu Nov 10 11:57:17 2022] 127.0.0.1:37272 Accepted
+[Thu Nov 10 11:57:18 2022] 127.0.0.1:37272 [201]: POST /api/commando
+[Thu Nov 10 11:57:18 2022] 127.0.0.1:37272 Closing
+[Thu Nov 10 11:57:19 2022] 127.0.0.1:37274 Accepted
+[Thu Nov 10 11:57:19 2022] 127.0.0.1:37274 [200]: GET /api/commando/97b5e13d-d414-43a9-b1c9-58b57e920fe3
+[Thu Nov 10 11:57:19 2022] 127.0.0.1:37274 Closing
+[Thu Nov 10 11:57:19 2022] 127.0.0.1:37276 Accepted
+[Thu Nov 10 11:57:19 2022] 127.0.0.1:37276 [200]: GET /api/commando/97b5e13d-d414-43a9-b1c9-58b57e920fe3
+[Thu Nov 10 11:57:19 2022] 127.0.0.1:37276 Closing
+[Thu Nov 10 11:57:25 2022] 127.0.0.1:37278 Accepted
+[Thu Nov 10 11:57:25 2022] 127.0.0.1:37278 [200]: GET /api/commando
+[Thu Nov 10 11:57:25 2022] 127.0.0.1:37278 Closing
+[Thu Nov 10 11:57:25 2022] 127.0.0.1:37280 Accepted
+[Thu Nov 10 11:57:25 2022] 127.0.0.1:37280 [200]: GET /api/commando
+[Thu Nov 10 11:57:25 2022] 127.0.0.1:37280 Closing
+[Thu Nov 10 11:57:29 2022] 127.0.0.1:37282 Accepted
+[Thu Nov 10 11:57:29 2022] 127.0.0.1:37282 [200]: GET /api/commando
+[Thu Nov 10 11:57:29 2022] 127.0.0.1:37282 Closing
+[Thu Nov 10 11:57:29 2022] 127.0.0.1:37284 Accepted
+[Thu Nov 10 11:57:29 2022] 127.0.0.1:37284 [200]: GET /api/commando
+[Thu Nov 10 11:57:29 2022] 127.0.0.1:37284 Closing
+[Thu Nov 10 11:58:33 2022] 127.0.0.1:37286 Accepted
+[Thu Nov 10 11:58:33 2022] 127.0.0.1:37286 [200]: GET /api/commando/97b5e13d-d414-43a9-b1c9-58b57e920fe3
+[Thu Nov 10 11:58:33 2022] 127.0.0.1:37286 Closing
+[Thu Nov 10 11:58:33 2022] 127.0.0.1:37288 Accepted
+[Thu Nov 10 11:58:33 2022] 127.0.0.1:37288 [200]: GET /api/commando/97b5e13d-d414-43a9-b1c9-58b57e920fe3
+[Thu Nov 10 11:58:33 2022] 127.0.0.1:37288 Closing
+[Thu Nov 10 11:58:35 2022] 127.0.0.1:37290 Accepted
+[Thu Nov 10 11:58:35 2022] 127.0.0.1:37290 [200]: GET /api/commando
+[Thu Nov 10 11:58:35 2022] 127.0.0.1:37290 Closing
+[Thu Nov 10 11:58:35 2022] 127.0.0.1:37292 Accepted
+[Thu Nov 10 11:58:35 2022] 127.0.0.1:37292 [200]: GET /api/commando
+[Thu Nov 10 11:58:35 2022] 127.0.0.1:37292 Closing
+[Thu Nov 10 11:58:36 2022] 127.0.0.1:37294 Accepted
+[Thu Nov 10 11:58:36 2022] 127.0.0.1:37294 [200]: GET /api/commando/97b5e13d-d414-43a9-b1c9-58b57e920fe3
+[Thu Nov 10 11:58:36 2022] 127.0.0.1:37294 Closing
+[Thu Nov 10 11:58:36 2022] 127.0.0.1:37296 Accepted
+[Thu Nov 10 11:58:36 2022] 127.0.0.1:37296 [200]: GET /api/commando/97b5e13d-d414-43a9-b1c9-58b57e920fe3
+[Thu Nov 10 11:58:36 2022] 127.0.0.1:37296 Closing
+[Thu Nov 10 11:58:39 2022] 127.0.0.1:37300 Accepted
+[Thu Nov 10 11:58:39 2022] 127.0.0.1:37300 [200]: GET /api/commando
+[Thu Nov 10 11:58:39 2022] 127.0.0.1:37300 Closing
+[Thu Nov 10 11:58:39 2022] 127.0.0.1:37302 Accepted
+[Thu Nov 10 11:58:39 2022] 127.0.0.1:37302 [200]: GET /api/commando
+[Thu Nov 10 11:58:39 2022] 127.0.0.1:37302 Closing
+[Thu Nov 10 11:59:04 2022] 127.0.0.1:37304 Accepted
+[Thu Nov 10 11:59:04 2022] 127.0.0.1:37304 [200]: GET /api/commando
+[Thu Nov 10 11:59:04 2022] 127.0.0.1:37304 Closing
+[Thu Nov 10 11:59:04 2022] 127.0.0.1:37306 Accepted
+[Thu Nov 10 11:59:04 2022] 127.0.0.1:37306 [200]: GET /api/commando
+[Thu Nov 10 11:59:04 2022] 127.0.0.1:37306 Closing
+[Thu Nov 10 11:59:05 2022] 127.0.0.1:37308 Accepted
+[Thu Nov 10 11:59:05 2022] 127.0.0.1:37308 [200]: GET /api/commando/97b5e13d-d414-43a9-b1c9-58b57e920fe3
+[Thu Nov 10 11:59:05 2022] 127.0.0.1:37308 Closing
+[Thu Nov 10 11:59:05 2022] 127.0.0.1:37310 Accepted
+[Thu Nov 10 11:59:05 2022] 127.0.0.1:37310 [200]: GET /api/commando/97b5e13d-d414-43a9-b1c9-58b57e920fe3
+[Thu Nov 10 11:59:05 2022] 127.0.0.1:37310 Closing
+[Thu Nov 10 11:59:27 2022] 127.0.0.1:37312 Accepted
+[Thu Nov 10 11:59:27 2022] 127.0.0.1:37312 [200]: GET /api/commando
+[Thu Nov 10 11:59:27 2022] 127.0.0.1:37312 Closing
+[Thu Nov 10 11:59:27 2022] 127.0.0.1:37314 Accepted
+[Thu Nov 10 11:59:27 2022] 127.0.0.1:37314 [200]: GET /api/commando
+[Thu Nov 10 11:59:27 2022] 127.0.0.1:37314 Closing
+[Thu Nov 10 11:59:28 2022] 127.0.0.1:37316 Accepted
+[Thu Nov 10 11:59:28 2022] 127.0.0.1:37316 [200]: GET /api/commando/97b5e13d-d414-43a9-b1c9-58b57e920fe3
+[Thu Nov 10 11:59:28 2022] 127.0.0.1:37316 Closing
+[Thu Nov 10 11:59:28 2022] 127.0.0.1:37318 Accepted
+[Thu Nov 10 11:59:28 2022] 127.0.0.1:37318 [200]: GET /api/commando/97b5e13d-d414-43a9-b1c9-58b57e920fe3
+[Thu Nov 10 11:59:28 2022] 127.0.0.1:37318 Closing
+[Thu Nov 10 12:04:55 2022] PHP 8.1.9 Development Server (http://127.0.0.1:1234) started
+[Thu Nov 10 12:04:59 2022] 127.0.0.1:37324 Accepted
+[Thu Nov 10 12:05:00 2022] 127.0.0.1:37324 [500]: GET /api/commando
+[Thu Nov 10 12:05:00 2022] 127.0.0.1:37324 Closing
+[Thu Nov 10 12:05:11 2022] 127.0.0.1:37326 Accepted
+[Thu Nov 10 12:05:11 2022] 127.0.0.1:37326 [200]: GET /api/commando
+[Thu Nov 10 12:05:11 2022] 127.0.0.1:37326 Closing
+[Thu Nov 10 12:05:12 2022] 127.0.0.1:37328 Accepted
+[Thu Nov 10 12:05:12 2022] 127.0.0.1:37328 [200]: GET /api/commando/97b5e13d-d414-43a9-b1c9-58b57e920fe3
+[Thu Nov 10 12:05:12 2022] 127.0.0.1:37328 Closing
+[Thu Nov 10 12:05:12 2022] 127.0.0.1:37330 Accepted
+[Thu Nov 10 12:05:12 2022] 127.0.0.1:37330 [200]: GET /api/commando/97b5e13d-d414-43a9-b1c9-58b57e920fe3
+[Thu Nov 10 12:05:12 2022] 127.0.0.1:37330 Closing
+[Thu Nov 10 12:05:14 2022] 127.0.0.1:37332 Accepted
+[Thu Nov 10 12:05:14 2022] 127.0.0.1:37332 [200]: GET /api/commando/97b5e13d-d414-43a9-b1c9-58b57e920fe3
+[Thu Nov 10 12:05:14 2022] 127.0.0.1:37332 Closing
+[Thu Nov 10 12:05:14 2022] 127.0.0.1:37334 Accepted
+[Thu Nov 10 12:05:14 2022] 127.0.0.1:37334 [200]: GET /api/commando/97b5e13d-d414-43a9-b1c9-58b57e920fe3
+[Thu Nov 10 12:05:14 2022] 127.0.0.1:37334 Closing
+[Thu Nov 10 12:05:59 2022] 127.0.0.1:37336 Accepted
+[Thu Nov 10 12:05:59 2022] 127.0.0.1:37336 [200]: GET /api/commando/97b5e13d-d414-43a9-b1c9-58b57e920fe3
+[Thu Nov 10 12:05:59 2022] 127.0.0.1:37336 Closing
+[Thu Nov 10 12:05:59 2022] 127.0.0.1:37338 Accepted
+[Thu Nov 10 12:05:59 2022] 127.0.0.1:37338 [200]: GET /api/commando/97b5e13d-d414-43a9-b1c9-58b57e920fe3
+[Thu Nov 10 12:05:59 2022] 127.0.0.1:37338 Closing
+[Thu Nov 10 12:06:01 2022] 127.0.0.1:37340 Accepted
+[Thu Nov 10 12:06:01 2022] 127.0.0.1:37340 [200]: GET /api/commando
+[Thu Nov 10 12:06:01 2022] 127.0.0.1:37340 Closing
+[Thu Nov 10 12:06:01 2022] 127.0.0.1:37344 Accepted
+[Thu Nov 10 12:06:01 2022] 127.0.0.1:37344 [200]: GET /api/commando
+[Thu Nov 10 12:06:01 2022] 127.0.0.1:37344 Closing
+[Thu Nov 10 12:06:04 2022] 127.0.0.1:37346 Accepted
+[Thu Nov 10 12:06:04 2022] 127.0.0.1:37346 [200]: GET /api/commando/97b5e13d-d414-43a9-b1c9-58b57e920fe3
+[Thu Nov 10 12:06:04 2022] 127.0.0.1:37346 Closing
+[Thu Nov 10 12:06:04 2022] 127.0.0.1:37348 Accepted
+[Thu Nov 10 12:06:04 2022] 127.0.0.1:37348 [200]: GET /api/commando/97b5e13d-d414-43a9-b1c9-58b57e920fe3
+[Thu Nov 10 12:06:04 2022] 127.0.0.1:37348 Closing
+[Thu Nov 10 12:06:06 2022] 127.0.0.1:37350 Accepted
+[Thu Nov 10 12:06:06 2022] 127.0.0.1:37350 [200]: GET /api/commando
+[Thu Nov 10 12:06:06 2022] 127.0.0.1:37350 Closing
+[Thu Nov 10 12:06:06 2022] 127.0.0.1:37352 Accepted
+[Thu Nov 10 12:06:06 2022] 127.0.0.1:37352 [200]: GET /api/commando
+[Thu Nov 10 12:06:06 2022] 127.0.0.1:37352 Closing
+[Thu Nov 10 12:06:08 2022] 127.0.0.1:37354 Accepted
+[Thu Nov 10 12:06:08 2022] 127.0.0.1:37354 [200]: GET /api/commando/97b5e13d-d414-43a9-b1c9-58b57e920fe3
+[Thu Nov 10 12:06:08 2022] 127.0.0.1:37354 Closing
+[Thu Nov 10 12:06:08 2022] 127.0.0.1:37356 Accepted
+[Thu Nov 10 12:06:08 2022] 127.0.0.1:37356 [200]: GET /api/commando/97b5e13d-d414-43a9-b1c9-58b57e920fe3
+[Thu Nov 10 12:06:08 2022] 127.0.0.1:37356 Closing
+[Thu Nov 10 12:06:11 2022] 127.0.0.1:37358 Accepted
+[Thu Nov 10 12:06:11 2022] 127.0.0.1:37358 [200]: GET /api/commando
+[Thu Nov 10 12:06:11 2022] 127.0.0.1:37358 Closing
+[Thu Nov 10 12:06:11 2022] 127.0.0.1:37360 Accepted
+[Thu Nov 10 12:06:11 2022] 127.0.0.1:37360 [200]: GET /api/commando
+[Thu Nov 10 12:06:11 2022] 127.0.0.1:37360 Closing
+[Thu Nov 10 12:06:12 2022] 127.0.0.1:37362 Accepted
+[Thu Nov 10 12:06:12 2022] 127.0.0.1:37362 [200]: GET /api/commando/97b5e13d-d414-43a9-b1c9-58b57e920fe3
+[Thu Nov 10 12:06:12 2022] 127.0.0.1:37362 Closing
+[Thu Nov 10 12:06:12 2022] 127.0.0.1:37364 Accepted
+[Thu Nov 10 12:06:12 2022] 127.0.0.1:37364 [200]: GET /api/commando/97b5e13d-d414-43a9-b1c9-58b57e920fe3
+[Thu Nov 10 12:06:12 2022] 127.0.0.1:37364 Closing
+[Thu Nov 10 12:06:13 2022] 127.0.0.1:37366 Accepted
+[Thu Nov 10 12:06:13 2022] 127.0.0.1:37366 [200]: GET /api/commando
+[Thu Nov 10 12:06:13 2022] 127.0.0.1:37366 Closing
+[Thu Nov 10 12:06:13 2022] 127.0.0.1:37368 Accepted
+[Thu Nov 10 12:06:13 2022] 127.0.0.1:37368 [200]: GET /api/commando
+[Thu Nov 10 12:06:13 2022] 127.0.0.1:37368 Closing
+[Thu Nov 10 12:07:23 2022] 127.0.0.1:37370 Accepted
+[Thu Nov 10 12:07:23 2022] 127.0.0.1:37370 [200]: GET /api/commando
+[Thu Nov 10 12:07:23 2022] 127.0.0.1:37370 Closing
+[Thu Nov 10 12:07:23 2022] 127.0.0.1:37372 Accepted
+[Thu Nov 10 12:07:23 2022] 127.0.0.1:37372 [200]: GET /api/commando
+[Thu Nov 10 12:07:23 2022] 127.0.0.1:37372 Closing
+[Thu Nov 10 12:07:27 2022] 127.0.0.1:37374 Accepted
+[Thu Nov 10 12:07:27 2022] 127.0.0.1:37374 [200]: GET /api/commando
+[Thu Nov 10 12:07:27 2022] 127.0.0.1:37374 Closing
+[Thu Nov 10 12:07:27 2022] 127.0.0.1:37376 Accepted
+[Thu Nov 10 12:07:27 2022] 127.0.0.1:37376 [200]: GET /api/commando
+[Thu Nov 10 12:07:27 2022] 127.0.0.1:37376 Closing
+[Thu Nov 10 12:07:28 2022] 127.0.0.1:37378 Accepted
+[Thu Nov 10 12:07:28 2022] 127.0.0.1:37378 [200]: GET /api/commando
+[Thu Nov 10 12:07:28 2022] 127.0.0.1:37378 Closing
+[Thu Nov 10 12:07:28 2022] 127.0.0.1:37380 Accepted
+[Thu Nov 10 12:07:28 2022] 127.0.0.1:37380 [200]: GET /api/commando
+[Thu Nov 10 12:07:28 2022] 127.0.0.1:37380 Closing
+[Thu Nov 10 12:07:30 2022] 127.0.0.1:37382 Accepted
+[Thu Nov 10 12:07:30 2022] 127.0.0.1:37382 [200]: GET /api/commando/97b5e13d-d414-43a9-b1c9-58b57e920fe3
+[Thu Nov 10 12:07:30 2022] 127.0.0.1:37382 Closing
+[Thu Nov 10 12:07:30 2022] 127.0.0.1:37384 Accepted
+[Thu Nov 10 12:07:30 2022] 127.0.0.1:37384 [200]: GET /api/commando/97b5e13d-d414-43a9-b1c9-58b57e920fe3
+[Thu Nov 10 12:07:30 2022] 127.0.0.1:37384 Closing
+[Thu Nov 10 12:07:37 2022] 127.0.0.1:37386 Accepted
+[Thu Nov 10 12:07:37 2022] 127.0.0.1:37386 [200]: GET /api/commando/97b5e13d-d414-43a9-b1c9-58b57e920fe3
+[Thu Nov 10 12:07:37 2022] 127.0.0.1:37386 Closing
+[Thu Nov 10 12:07:37 2022] 127.0.0.1:37388 Accepted
+[Thu Nov 10 12:07:37 2022] 127.0.0.1:37388 [200]: GET /api/commando/97b5e13d-d414-43a9-b1c9-58b57e920fe3
+[Thu Nov 10 12:07:37 2022] 127.0.0.1:37388 Closing
+[Thu Nov 10 12:07:40 2022] 127.0.0.1:37390 Accepted
+[Thu Nov 10 12:07:40 2022] 127.0.0.1:37390 [200]: GET /api/commando/97b5e13d-d414-43a9-b1c9-58b57e920fe3
+[Thu Nov 10 12:07:40 2022] 127.0.0.1:37390 Closing
+[Thu Nov 10 12:07:40 2022] 127.0.0.1:37392 Accepted
+[Thu Nov 10 12:07:40 2022] 127.0.0.1:37392 [200]: GET /api/commando/97b5e13d-d414-43a9-b1c9-58b57e920fe3
+[Thu Nov 10 12:07:40 2022] 127.0.0.1:37392 Closing
+[Thu Nov 10 12:07:42 2022] 127.0.0.1:37394 Accepted
+[Thu Nov 10 12:07:42 2022] 127.0.0.1:37394 [200]: GET /api/commando
+[Thu Nov 10 12:07:42 2022] 127.0.0.1:37394 Closing
+[Thu Nov 10 12:07:42 2022] 127.0.0.1:37396 Accepted
+[Thu Nov 10 12:07:42 2022] 127.0.0.1:37396 [200]: GET /api/commando
+[Thu Nov 10 12:07:42 2022] 127.0.0.1:37396 Closing
+[Thu Nov 10 12:08:14 2022] 127.0.0.1:37398 Accepted
+[Thu Nov 10 12:08:14 2022] 127.0.0.1:37398 [200]: GET /api/commando
+[Thu Nov 10 12:08:14 2022] 127.0.0.1:37398 Closing
+[Thu Nov 10 12:08:14 2022] 127.0.0.1:37400 Accepted
+[Thu Nov 10 12:08:14 2022] 127.0.0.1:37400 [200]: GET /api/commando
+[Thu Nov 10 12:08:14 2022] 127.0.0.1:37400 Closing
+[Thu Nov 10 12:08:26 2022] 127.0.0.1:37402 Accepted
+[Thu Nov 10 12:08:26 2022] 127.0.0.1:37402 [200]: GET /api/commando/97b5e13d-d414-43a9-b1c9-58b57e920fe3
+[Thu Nov 10 12:08:26 2022] 127.0.0.1:37402 Closing
+[Thu Nov 10 12:08:26 2022] 127.0.0.1:37404 Accepted
+[Thu Nov 10 12:08:26 2022] 127.0.0.1:37404 [200]: GET /api/commando/97b5e13d-d414-43a9-b1c9-58b57e920fe3
+[Thu Nov 10 12:08:26 2022] 127.0.0.1:37404 Closing
+[Thu Nov 10 12:08:31 2022] 127.0.0.1:37406 Accepted
+[Thu Nov 10 12:08:31 2022] 127.0.0.1:37406 [200]: GET /api/commando/97b5e13d-d414-43a9-b1c9-58b57e920fe3
+[Thu Nov 10 12:08:31 2022] 127.0.0.1:37406 Closing
+[Thu Nov 10 12:08:31 2022] 127.0.0.1:37408 Accepted
+[Thu Nov 10 12:08:31 2022] 127.0.0.1:37408 [200]: GET /api/commando/97b5e13d-d414-43a9-b1c9-58b57e920fe3
+[Thu Nov 10 12:08:31 2022] 127.0.0.1:37408 Closing
+[Thu Nov 10 12:08:33 2022] 127.0.0.1:37410 Accepted
+[Thu Nov 10 12:08:33 2022] 127.0.0.1:37410 [200]: GET /api/commando/97b5e13d-d414-43a9-b1c9-58b57e920fe3
+[Thu Nov 10 12:08:33 2022] 127.0.0.1:37410 Closing
+[Thu Nov 10 12:08:33 2022] 127.0.0.1:37412 Accepted
+[Thu Nov 10 12:08:33 2022] 127.0.0.1:37412 [200]: GET /api/commando/97b5e13d-d414-43a9-b1c9-58b57e920fe3
+[Thu Nov 10 12:08:33 2022] 127.0.0.1:37412 Closing
+[Thu Nov 10 12:09:51 2022] 127.0.0.1:37414 Accepted
+[Thu Nov 10 12:09:51 2022] 127.0.0.1:37414 [200]: GET /api/commando
+[Thu Nov 10 12:09:51 2022] 127.0.0.1:37414 Closing
+[Thu Nov 10 12:09:51 2022] 127.0.0.1:37416 Accepted
+[Thu Nov 10 12:09:51 2022] 127.0.0.1:37416 [200]: GET /api/commando
+[Thu Nov 10 12:09:51 2022] 127.0.0.1:37416 Closing
+[Thu Nov 10 12:11:31 2022] 127.0.0.1:37418 Accepted
+[Thu Nov 10 12:11:31 2022] 127.0.0.1:37418 [200]: GET /api/commando
+[Thu Nov 10 12:11:31 2022] 127.0.0.1:37418 Closing
+[Thu Nov 10 12:11:31 2022] 127.0.0.1:37420 Accepted
+[Thu Nov 10 12:11:31 2022] 127.0.0.1:37420 [200]: GET /api/commando
+[Thu Nov 10 12:11:31 2022] 127.0.0.1:37420 Closing
+[Thu Nov 10 12:11:32 2022] 127.0.0.1:37422 Accepted
+[Thu Nov 10 12:11:32 2022] 127.0.0.1:37422 [200]: GET /api/commando/97b5e13d-d414-43a9-b1c9-58b57e920fe3
+[Thu Nov 10 12:11:32 2022] 127.0.0.1:37422 Closing
+[Thu Nov 10 12:11:32 2022] 127.0.0.1:37424 Accepted
+[Thu Nov 10 12:11:32 2022] 127.0.0.1:37424 [200]: GET /api/commando/97b5e13d-d414-43a9-b1c9-58b57e920fe3
+[Thu Nov 10 12:11:32 2022] 127.0.0.1:37424 Closing
+[Thu Nov 10 12:11:36 2022] 127.0.0.1:37426 Accepted
+[Thu Nov 10 12:11:36 2022] 127.0.0.1:37426 [200]: GET /api/commando
+[Thu Nov 10 12:11:36 2022] 127.0.0.1:37426 Closing
+[Thu Nov 10 12:11:36 2022] 127.0.0.1:37430 Accepted
+[Thu Nov 10 12:11:36 2022] 127.0.0.1:37430 [200]: GET /api/commando
+[Thu Nov 10 12:11:36 2022] 127.0.0.1:37430 Closing
+[Thu Nov 10 12:12:16 2022] 127.0.0.1:37432 Accepted
+[Thu Nov 10 12:12:16 2022] 127.0.0.1:37432 [200]: GET /api/commando
+[Thu Nov 10 12:12:16 2022] 127.0.0.1:37432 Closing
+[Thu Nov 10 12:12:16 2022] 127.0.0.1:37434 Accepted
+[Thu Nov 10 12:12:16 2022] 127.0.0.1:37434 [200]: GET /api/commando
+[Thu Nov 10 12:12:16 2022] 127.0.0.1:37434 Closing
+[Thu Nov 10 12:12:18 2022] 127.0.0.1:37436 Accepted
+[Thu Nov 10 12:12:18 2022] 127.0.0.1:37436 [200]: GET /api/commando
+[Thu Nov 10 12:12:18 2022] 127.0.0.1:37436 Closing
+[Thu Nov 10 12:12:18 2022] 127.0.0.1:37440 Accepted
+[Thu Nov 10 12:12:18 2022] 127.0.0.1:37440 [200]: GET /api/commando
+[Thu Nov 10 12:12:18 2022] 127.0.0.1:37440 Closing
+[Thu Nov 10 12:12:19 2022] 127.0.0.1:37442 Accepted
+[Thu Nov 10 12:12:19 2022] 127.0.0.1:37442 [200]: GET /api/commando/97b5e13d-d414-43a9-b1c9-58b57e920fe3
+[Thu Nov 10 12:12:19 2022] 127.0.0.1:37442 Closing
+[Thu Nov 10 12:12:19 2022] 127.0.0.1:37446 Accepted
+[Thu Nov 10 12:12:19 2022] 127.0.0.1:37446 [200]: GET /api/commando/97b5e13d-d414-43a9-b1c9-58b57e920fe3
+[Thu Nov 10 12:12:19 2022] 127.0.0.1:37446 Closing
+[Thu Nov 10 12:13:50 2022] 127.0.0.1:37448 Accepted
+[Thu Nov 10 12:13:50 2022] 127.0.0.1:37448 [200]: GET /api/commando
+[Thu Nov 10 12:13:50 2022] 127.0.0.1:37448 Closing
+[Thu Nov 10 12:13:50 2022] 127.0.0.1:37450 Accepted
+[Thu Nov 10 12:13:50 2022] 127.0.0.1:37450 [200]: GET /api/commando
+[Thu Nov 10 12:13:50 2022] 127.0.0.1:37450 Closing
+[Thu Nov 10 12:13:53 2022] 127.0.0.1:37452 Accepted
+[Thu Nov 10 12:13:54 2022] 127.0.0.1:37452 [201]: POST /api/commando
+[Thu Nov 10 12:13:54 2022] 127.0.0.1:37452 Closing
+[Thu Nov 10 12:13:54 2022] 127.0.0.1:37454 Accepted
+[Thu Nov 10 12:13:54 2022] 127.0.0.1:37454 [200]: GET /api/commando/97b5e72d-a4d6-4093-879b-40b969942450
+[Thu Nov 10 12:13:54 2022] 127.0.0.1:37454 Closing
+[Thu Nov 10 12:13:54 2022] 127.0.0.1:37456 Accepted
+[Thu Nov 10 12:13:54 2022] 127.0.0.1:37456 [200]: GET /api/commando/97b5e72d-a4d6-4093-879b-40b969942450
+[Thu Nov 10 12:13:54 2022] 127.0.0.1:37456 Closing
+[Thu Nov 10 12:15:23 2022] 127.0.0.1:37458 Accepted
+[Thu Nov 10 12:15:23 2022] 127.0.0.1:37458 [200]: GET /api/commando/97b5e72d-a4d6-4093-879b-40b969942450
+[Thu Nov 10 12:15:23 2022] 127.0.0.1:37458 Closing
+[Thu Nov 10 12:15:23 2022] 127.0.0.1:37462 Accepted
+[Thu Nov 10 12:15:23 2022] 127.0.0.1:37462 [200]: GET /api/commando/97b5e72d-a4d6-4093-879b-40b969942450
+[Thu Nov 10 12:15:23 2022] 127.0.0.1:37462 Closing
+[Thu Nov 10 12:15:30 2022] 127.0.0.1:37464 Accepted
+[Thu Nov 10 12:15:30 2022] 127.0.0.1:37464 [200]: GET /api/commando
+[Thu Nov 10 12:15:30 2022] 127.0.0.1:37464 Closing
+[Thu Nov 10 12:15:30 2022] 127.0.0.1:37466 Accepted
+[Thu Nov 10 12:15:30 2022] 127.0.0.1:37466 [200]: GET /api/commando
+[Thu Nov 10 12:15:30 2022] 127.0.0.1:37466 Closing
+[Thu Nov 10 12:15:31 2022] 127.0.0.1:37468 Accepted
+[Thu Nov 10 12:15:31 2022] 127.0.0.1:37468 [200]: GET /api/commando/97b5e13d-d414-43a9-b1c9-58b57e920fe3
+[Thu Nov 10 12:15:31 2022] 127.0.0.1:37468 Closing
+[Thu Nov 10 12:15:31 2022] 127.0.0.1:37470 Accepted
+[Thu Nov 10 12:15:31 2022] 127.0.0.1:37470 [200]: GET /api/commando/97b5e13d-d414-43a9-b1c9-58b57e920fe3
+[Thu Nov 10 12:15:31 2022] 127.0.0.1:37470 Closing
+[Thu Nov 10 12:16:49 2022] 127.0.0.1:37472 Accepted
+[Thu Nov 10 12:16:49 2022] 127.0.0.1:37472 [200]: GET /api/commando/97b5e13d-d414-43a9-b1c9-58b57e920fe3
+[Thu Nov 10 12:16:49 2022] 127.0.0.1:37472 Closing
+[Thu Nov 10 12:16:49 2022] 127.0.0.1:37474 Accepted
+[Thu Nov 10 12:16:49 2022] 127.0.0.1:37474 [200]: GET /api/commando/97b5e13d-d414-43a9-b1c9-58b57e920fe3
+[Thu Nov 10 12:16:49 2022] 127.0.0.1:37474 Closing
+[Thu Nov 10 12:17:30 2022] 127.0.0.1:37476 Accepted
+[Thu Nov 10 12:17:30 2022] 127.0.0.1:37476 [200]: GET /api/commando/97b5e13d-d414-43a9-b1c9-58b57e920fe3
+[Thu Nov 10 12:17:30 2022] 127.0.0.1:37476 Closing
+[Thu Nov 10 12:17:30 2022] 127.0.0.1:37478 Accepted
+[Thu Nov 10 12:17:30 2022] 127.0.0.1:37478 [200]: GET /api/commando/97b5e13d-d414-43a9-b1c9-58b57e920fe3
+[Thu Nov 10 12:17:30 2022] 127.0.0.1:37478 Closing
+[Thu Nov 10 12:17:47 2022] 127.0.0.1:37480 Accepted
+[Thu Nov 10 12:17:47 2022] 127.0.0.1:37480 [200]: GET /api/commando/97b5e13d-d414-43a9-b1c9-58b57e920fe3
+[Thu Nov 10 12:17:47 2022] 127.0.0.1:37480 Closing
+[Thu Nov 10 12:17:47 2022] 127.0.0.1:37482 Accepted
+[Thu Nov 10 12:17:47 2022] 127.0.0.1:37482 [200]: GET /api/commando/97b5e13d-d414-43a9-b1c9-58b57e920fe3
+[Thu Nov 10 12:17:47 2022] 127.0.0.1:37482 Closing
+[Thu Nov 10 12:17:54 2022] 127.0.0.1:37484 Accepted
+[Thu Nov 10 12:17:54 2022] 127.0.0.1:37484 [200]: GET /api/commando
+[Thu Nov 10 12:17:54 2022] 127.0.0.1:37484 Closing
+[Thu Nov 10 12:17:54 2022] 127.0.0.1:37486 Accepted
+[Thu Nov 10 12:17:54 2022] 127.0.0.1:37486 [200]: GET /api/commando
+[Thu Nov 10 12:17:54 2022] 127.0.0.1:37486 Closing
+[Thu Nov 10 12:17:55 2022] 127.0.0.1:37488 Accepted
+[Thu Nov 10 12:17:55 2022] 127.0.0.1:37488 [200]: GET /api/commando/97b5e72d-a4d6-4093-879b-40b969942450
+[Thu Nov 10 12:17:55 2022] 127.0.0.1:37488 Closing
+[Thu Nov 10 12:17:55 2022] 127.0.0.1:37490 Accepted
+[Thu Nov 10 12:17:55 2022] 127.0.0.1:37490 [200]: GET /api/commando/97b5e72d-a4d6-4093-879b-40b969942450
+[Thu Nov 10 12:17:55 2022] 127.0.0.1:37490 Closing
+[Thu Nov 10 12:17:58 2022] 127.0.0.1:37492 Accepted
+[Thu Nov 10 12:17:58 2022] 127.0.0.1:37492 [200]: GET /api/commando
+[Thu Nov 10 12:17:58 2022] 127.0.0.1:37492 Closing
+[Thu Nov 10 12:17:58 2022] 127.0.0.1:37494 Accepted
+[Thu Nov 10 12:17:58 2022] 127.0.0.1:37494 [200]: GET /api/commando
+[Thu Nov 10 12:17:58 2022] 127.0.0.1:37494 Closing
+[Thu Nov 10 12:18:00 2022] 127.0.0.1:37496 Accepted
+[Thu Nov 10 12:18:00 2022] 127.0.0.1:37496 [200]: GET /api/commando/97b5e72d-a4d6-4093-879b-40b969942450
+[Thu Nov 10 12:18:00 2022] 127.0.0.1:37496 Closing
+[Thu Nov 10 12:18:00 2022] 127.0.0.1:37498 Accepted
+[Thu Nov 10 12:18:00 2022] 127.0.0.1:37498 [200]: GET /api/commando/97b5e72d-a4d6-4093-879b-40b969942450
+[Thu Nov 10 12:18:00 2022] 127.0.0.1:37498 Closing
+[Thu Nov 10 12:32:01 2022] 127.0.0.1:37500 Accepted
+[Thu Nov 10 12:32:02 2022] 127.0.0.1:37500 [200]: DELETE /api/commando/97b5e72d-a4d6-4093-879b-40b969942450
+[Thu Nov 10 12:32:02 2022] 127.0.0.1:37500 Closing
+[Thu Nov 10 12:32:02 2022] 127.0.0.1:37502 Accepted
+[Thu Nov 10 12:32:02 2022] 127.0.0.1:37502 [200]: GET /api/commando
+[Thu Nov 10 12:32:02 2022] 127.0.0.1:37502 Closing
+[Thu Nov 10 12:32:02 2022] 127.0.0.1:37504 Accepted
+[Thu Nov 10 12:32:02 2022] 127.0.0.1:37504 [200]: GET /api/commando
+[Thu Nov 10 12:32:02 2022] 127.0.0.1:37504 Closing
+[Thu Nov 10 12:32:03 2022] 127.0.0.1:37506 Accepted
+[Thu Nov 10 12:32:03 2022] 127.0.0.1:37506 [200]: GET /api/commando/97b5e13d-d414-43a9-b1c9-58b57e920fe3
+[Thu Nov 10 12:32:03 2022] 127.0.0.1:37506 Closing
+[Thu Nov 10 12:32:03 2022] 127.0.0.1:37508 Accepted
+[Thu Nov 10 12:32:03 2022] 127.0.0.1:37508 [200]: GET /api/commando/97b5e13d-d414-43a9-b1c9-58b57e920fe3
+[Thu Nov 10 12:32:03 2022] 127.0.0.1:37508 Closing
+[Thu Nov 10 12:32:05 2022] 127.0.0.1:37512 Accepted
+[Thu Nov 10 12:32:05 2022] 127.0.0.1:37512 [200]: GET /api/commando
+[Thu Nov 10 12:32:05 2022] 127.0.0.1:37512 Closing
+[Thu Nov 10 12:32:05 2022] 127.0.0.1:37514 Accepted
+[Thu Nov 10 12:32:05 2022] 127.0.0.1:37514 [200]: GET /api/commando
+[Thu Nov 10 12:32:05 2022] 127.0.0.1:37514 Closing
+[Thu Nov 10 12:32:07 2022] 127.0.0.1:37516 Accepted
+[Thu Nov 10 12:32:07 2022] 127.0.0.1:37516 [200]: GET /api/commando/97b5e13d-d414-43a9-b1c9-58b57e920fe3
+[Thu Nov 10 12:32:07 2022] 127.0.0.1:37516 Closing
+[Thu Nov 10 12:32:07 2022] 127.0.0.1:37518 Accepted
+[Thu Nov 10 12:32:07 2022] 127.0.0.1:37518 [200]: GET /api/commando/97b5e13d-d414-43a9-b1c9-58b57e920fe3
+[Thu Nov 10 12:32:07 2022] 127.0.0.1:37518 Closing
+[Thu Nov 10 12:32:10 2022] 127.0.0.1:37520 Accepted
+[Thu Nov 10 12:32:10 2022] 127.0.0.1:37520 [200]: GET /api/commando
+[Thu Nov 10 12:32:10 2022] 127.0.0.1:37520 Closing
+[Thu Nov 10 12:32:10 2022] 127.0.0.1:37522 Accepted
+[Thu Nov 10 12:32:10 2022] 127.0.0.1:37522 [200]: GET /api/commando
+[Thu Nov 10 12:32:10 2022] 127.0.0.1:37522 Closing
+[Thu Nov 10 12:33:01 2022] 127.0.0.1:37524 Accepted
+[Thu Nov 10 12:33:01 2022] 127.0.0.1:37524 [201]: POST /api/commando
+[Thu Nov 10 12:33:01 2022] 127.0.0.1:37524 Closing
+[Thu Nov 10 12:33:02 2022] 127.0.0.1:37526 Accepted
+[Thu Nov 10 12:33:02 2022] 127.0.0.1:37526 [200]: GET /api/commando/97b5ee04-fc75-498f-b010-d4729ebfe958
+[Thu Nov 10 12:33:02 2022] 127.0.0.1:37526 Closing
+[Thu Nov 10 12:33:02 2022] 127.0.0.1:37528 Accepted
+[Thu Nov 10 12:33:02 2022] 127.0.0.1:37528 [200]: GET /api/commando/97b5ee04-fc75-498f-b010-d4729ebfe958
+[Thu Nov 10 12:33:02 2022] 127.0.0.1:37528 Closing
+[Thu Nov 10 12:33:10 2022] 127.0.0.1:37530 Accepted
+[Thu Nov 10 12:33:10 2022] 127.0.0.1:37530 [200]: GET /api/commando
+[Thu Nov 10 12:33:10 2022] 127.0.0.1:37530 Closing
+[Thu Nov 10 12:33:10 2022] 127.0.0.1:37532 Accepted
+[Thu Nov 10 12:33:10 2022] 127.0.0.1:37532 [200]: GET /api/commando
+[Thu Nov 10 12:33:10 2022] 127.0.0.1:37532 Closing
+[Thu Nov 10 12:35:58 2022] 127.0.0.1:37534 Accepted
+[Thu Nov 10 12:35:58 2022] 127.0.0.1:37534 [200]: GET /api/commando/97b5e13d-d414-43a9-b1c9-58b57e920fe3
+[Thu Nov 10 12:35:58 2022] 127.0.0.1:37534 Closing
+[Thu Nov 10 12:35:58 2022] 127.0.0.1:37536 Accepted
+[Thu Nov 10 12:35:58 2022] 127.0.0.1:37536 [200]: GET /api/commando/97b5e13d-d414-43a9-b1c9-58b57e920fe3
+[Thu Nov 10 12:35:58 2022] 127.0.0.1:37536 Closing
+[Thu Nov 10 12:36:01 2022] 127.0.0.1:37538 Accepted
+[Thu Nov 10 12:36:01 2022] 127.0.0.1:37538 [200]: GET /api/commando
+[Thu Nov 10 12:36:01 2022] 127.0.0.1:37538 Closing
+[Thu Nov 10 12:36:01 2022] 127.0.0.1:37540 Accepted
+[Thu Nov 10 12:36:01 2022] 127.0.0.1:37540 [200]: GET /api/commando
+[Thu Nov 10 12:36:01 2022] 127.0.0.1:37540 Closing
+[Thu Nov 10 12:36:51 2022] 127.0.0.1:37542 Accepted
+[Thu Nov 10 12:36:51 2022] 127.0.0.1:37542 [200]: GET /api/commando/97b5e13d-d414-43a9-b1c9-58b57e920fe3
+[Thu Nov 10 12:36:51 2022] 127.0.0.1:37542 Closing
+[Thu Nov 10 12:36:51 2022] 127.0.0.1:37544 Accepted
+[Thu Nov 10 12:36:51 2022] 127.0.0.1:37544 [200]: GET /api/commando/97b5e13d-d414-43a9-b1c9-58b57e920fe3
+[Thu Nov 10 12:36:51 2022] 127.0.0.1:37544 Closing
+[Thu Nov 10 12:36:53 2022] 127.0.0.1:37546 Accepted
+[Thu Nov 10 12:36:53 2022] 127.0.0.1:37546 [200]: GET /api/commando
+[Thu Nov 10 12:36:53 2022] 127.0.0.1:37546 Closing
+[Thu Nov 10 12:36:53 2022] 127.0.0.1:37548 Accepted
+[Thu Nov 10 12:36:53 2022] 127.0.0.1:37548 [200]: GET /api/commando
+[Thu Nov 10 12:36:53 2022] 127.0.0.1:37548 Closing
+[Thu Nov 10 12:49:55 2022] 127.0.0.1:37550 Accepted
+[Thu Nov 10 12:49:55 2022] 127.0.0.1:37550 [200]: GET /api/commando/97b5e13d-d414-43a9-b1c9-58b57e920fe3
+[Thu Nov 10 12:49:55 2022] 127.0.0.1:37550 Closing
+[Thu Nov 10 12:49:55 2022] 127.0.0.1:37552 Accepted
+[Thu Nov 10 12:49:55 2022] 127.0.0.1:37552 [200]: GET /api/commando/97b5e13d-d414-43a9-b1c9-58b57e920fe3
+[Thu Nov 10 12:49:55 2022] 127.0.0.1:37552 Closing
+[Thu Nov 10 12:49:58 2022] 127.0.0.1:37554 Accepted
+[Thu Nov 10 12:49:58 2022] 127.0.0.1:37554 [200]: GET /api/commando/97b5e13d-d414-43a9-b1c9-58b57e920fe3
+[Thu Nov 10 12:49:58 2022] 127.0.0.1:37554 Closing
+[Thu Nov 10 12:49:58 2022] 127.0.0.1:37556 Accepted
+[Thu Nov 10 12:49:58 2022] 127.0.0.1:37556 [200]: GET /api/commando/97b5e13d-d414-43a9-b1c9-58b57e920fe3
+[Thu Nov 10 12:49:58 2022] 127.0.0.1:37556 Closing
+[Thu Nov 10 12:50:00 2022] 127.0.0.1:37558 Accepted
+[Thu Nov 10 12:50:00 2022] 127.0.0.1:37558 [200]: GET /api/commando/97b5e13d-d414-43a9-b1c9-58b57e920fe3
+[Thu Nov 10 12:50:00 2022] 127.0.0.1:37558 Closing
+[Thu Nov 10 12:50:00 2022] 127.0.0.1:37560 Accepted
+[Thu Nov 10 12:50:00 2022] 127.0.0.1:37560 [200]: GET /api/commando/97b5e13d-d414-43a9-b1c9-58b57e920fe3
+[Thu Nov 10 12:50:00 2022] 127.0.0.1:37560 Closing
+[Thu Nov 10 12:50:01 2022] 127.0.0.1:37562 Accepted
+[Thu Nov 10 12:50:01 2022] 127.0.0.1:37562 [200]: GET /api/commando
+[Thu Nov 10 12:50:01 2022] 127.0.0.1:37562 Closing
+[Thu Nov 10 12:50:01 2022] 127.0.0.1:37566 Accepted
+[Thu Nov 10 12:50:01 2022] 127.0.0.1:37566 [200]: GET /api/commando
+[Thu Nov 10 12:50:01 2022] 127.0.0.1:37566 Closing
+[Thu Nov 10 12:59:03 2022] 127.0.0.1:37568 Accepted
+[Thu Nov 10 12:59:03 2022] 127.0.0.1:37568 [200]: GET /api/commando
+[Thu Nov 10 12:59:03 2022] 127.0.0.1:37568 Closing
+[Thu Nov 10 12:59:03 2022] 127.0.0.1:37570 Accepted
+[Thu Nov 10 12:59:03 2022] 127.0.0.1:37570 [200]: GET /api/commando
+[Thu Nov 10 12:59:03 2022] 127.0.0.1:37570 Closing
+[Thu Nov 10 12:59:04 2022] 127.0.0.1:37572 Accepted
+[Thu Nov 10 12:59:04 2022] 127.0.0.1:37572 [200]: GET /api/commando
+[Thu Nov 10 12:59:04 2022] 127.0.0.1:37572 Closing
+[Thu Nov 10 12:59:04 2022] 127.0.0.1:37574 Accepted
+[Thu Nov 10 12:59:04 2022] 127.0.0.1:37574 [200]: GET /api/commando
+[Thu Nov 10 12:59:04 2022] 127.0.0.1:37574 Closing
+[Thu Nov 10 12:59:13 2022] 127.0.0.1:37576 Accepted
+[Thu Nov 10 12:59:13 2022] 127.0.0.1:37576 [200]: GET /api/commando
+[Thu Nov 10 12:59:13 2022] 127.0.0.1:37576 Closing
+[Thu Nov 10 12:59:13 2022] 127.0.0.1:37578 Accepted
+[Thu Nov 10 12:59:13 2022] 127.0.0.1:37578 [200]: GET /api/commando
+[Thu Nov 10 12:59:13 2022] 127.0.0.1:37578 Closing
+[Thu Nov 10 12:59:25 2022] 127.0.0.1:37580 Accepted
+[Thu Nov 10 12:59:25 2022] 127.0.0.1:37582 Accepted
+[Thu Nov 10 12:59:25 2022] 127.0.0.1:37580 [200]: GET /api/commando
+[Thu Nov 10 12:59:25 2022] 127.0.0.1:37580 Closing
+[Thu Nov 10 12:59:25 2022] 127.0.0.1:37582 [200]: GET /api/commando
+[Thu Nov 10 12:59:25 2022] 127.0.0.1:37582 Closing
+[Thu Nov 10 12:59:49 2022] 127.0.0.1:37584 Accepted
+[Thu Nov 10 12:59:49 2022] 127.0.0.1:37584 [200]: GET /api/commando
+[Thu Nov 10 12:59:49 2022] 127.0.0.1:37584 Closing
+[Thu Nov 10 12:59:49 2022] 127.0.0.1:37586 Accepted
+[Thu Nov 10 12:59:49 2022] 127.0.0.1:37586 [200]: GET /api/commando
+[Thu Nov 10 12:59:49 2022] 127.0.0.1:37586 Closing
+[Thu Nov 10 13:00:50 2022] 127.0.0.1:37588 Accepted
+[Thu Nov 10 13:00:50 2022] 127.0.0.1:37588 [200]: GET /api/commando
+[Thu Nov 10 13:00:50 2022] 127.0.0.1:37588 Closing
+[Thu Nov 10 13:00:50 2022] 127.0.0.1:37590 Accepted
+[Thu Nov 10 13:00:50 2022] 127.0.0.1:37590 [200]: GET /api/commando
+[Thu Nov 10 13:00:50 2022] 127.0.0.1:37590 Closing
+[Thu Nov 10 13:05:28 2022] 127.0.0.1:37594 Accepted
+[Thu Nov 10 13:05:28 2022] 127.0.0.1:37596 Accepted
+[Thu Nov 10 13:05:28 2022] 127.0.0.1:37594 [404]: GET /api
+[Thu Nov 10 13:05:28 2022] 127.0.0.1:37594 Closing
+[Thu Nov 10 13:05:28 2022] 127.0.0.1:37596 [404]: GET /api
+[Thu Nov 10 13:05:28 2022] 127.0.0.1:37596 Closing
+[Thu Nov 10 13:05:32 2022] 127.0.0.1:37598 Accepted
+[Thu Nov 10 13:05:32 2022] 127.0.0.1:37598 [404]: GET /api
+[Thu Nov 10 13:05:32 2022] 127.0.0.1:37598 Closing
+[Thu Nov 10 13:05:33 2022] 127.0.0.1:37600 Accepted
+[Thu Nov 10 13:05:33 2022] 127.0.0.1:37600 [404]: GET /api
+[Thu Nov 10 13:05:33 2022] 127.0.0.1:37600 Closing
+[Thu Nov 10 13:05:37 2022] 127.0.0.1:37604 Accepted
+[Thu Nov 10 13:05:37 2022] 127.0.0.1:37604 [200]: GET /api/commando
+[Thu Nov 10 13:05:37 2022] 127.0.0.1:37604 Closing
+[Thu Nov 10 13:06:06 2022] 127.0.0.1:37606 Accepted
+[Thu Nov 10 13:06:06 2022] 127.0.0.1:37606 [404]: GET /api
+[Thu Nov 10 13:06:06 2022] 127.0.0.1:37606 Closing
+[Thu Nov 10 13:06:22 2022] 127.0.0.1:37608 Accepted
+[Thu Nov 10 13:06:22 2022] 127.0.0.1:37608 [200]: GET /api/commando
+[Thu Nov 10 13:06:22 2022] 127.0.0.1:37608 Closing
+[Thu Nov 10 13:06:26 2022] 127.0.0.1:37610 Accepted
+[Thu Nov 10 13:06:26 2022] 127.0.0.1:37610 [404]: GET /api
+[Thu Nov 10 13:06:26 2022] 127.0.0.1:37610 Closing
+[Thu Nov 10 13:06:27 2022] 127.0.0.1:37612 Accepted
+[Thu Nov 10 13:06:27 2022] 127.0.0.1:37612 [404]: GET /api
+[Thu Nov 10 13:06:27 2022] 127.0.0.1:37612 Closing
+[Thu Nov 10 13:06:34 2022] 127.0.0.1:37614 Accepted
+[Thu Nov 10 13:06:34 2022] 127.0.0.1:37616 Accepted
+[Thu Nov 10 13:06:34 2022] 127.0.0.1:37614 [200]: GET /api/commando
+[Thu Nov 10 13:06:34 2022] 127.0.0.1:37614 Closing
+[Thu Nov 10 13:06:34 2022] 127.0.0.1:37616 [200]: GET /api/commando
+[Thu Nov 10 13:06:34 2022] 127.0.0.1:37616 Closing
+[Thu Nov 10 13:06:51 2022] 127.0.0.1:37618 Accepted
+[Thu Nov 10 13:06:51 2022] 127.0.0.1:37618 [200]: GET /api/commando
+[Thu Nov 10 13:06:51 2022] 127.0.0.1:37618 Closing
+[Thu Nov 10 13:06:51 2022] 127.0.0.1:37620 Accepted
+[Thu Nov 10 13:06:51 2022] 127.0.0.1:37620 [200]: GET /api/commando/about-2
+[Thu Nov 10 13:06:51 2022] 127.0.0.1:37620 Closing
+[Thu Nov 10 13:06:52 2022] 127.0.0.1:37622 Accepted
+[Thu Nov 10 13:06:52 2022] 127.0.0.1:37622 [200]: GET /api/commando/about-2
+[Thu Nov 10 13:06:52 2022] 127.0.0.1:37622 Closing
+[Thu Nov 10 13:06:53 2022] 127.0.0.1:37624 Accepted
+[Thu Nov 10 13:06:53 2022] 127.0.0.1:37624 [200]: GET /api/commando/about-2
+[Thu Nov 10 13:06:53 2022] 127.0.0.1:37624 Closing
+[Thu Nov 10 13:06:53 2022] 127.0.0.1:37626 Accepted
+[Thu Nov 10 13:06:53 2022] 127.0.0.1:37626 [200]: GET /api/commando/about-2
+[Thu Nov 10 13:06:53 2022] 127.0.0.1:37626 Closing
+[Thu Nov 10 13:06:57 2022] 127.0.0.1:37628 Accepted
+[Thu Nov 10 13:06:57 2022] 127.0.0.1:37628 [200]: GET /api/commando
+[Thu Nov 10 13:06:57 2022] 127.0.0.1:37628 Closing
+[Thu Nov 10 13:06:57 2022] 127.0.0.1:37630 Accepted
+[Thu Nov 10 13:06:57 2022] 127.0.0.1:37630 [200]: GET /api/commando
+[Thu Nov 10 13:06:57 2022] 127.0.0.1:37630 Closing
+[Thu Nov 10 13:07:00 2022] 127.0.0.1:37632 Accepted
+[Thu Nov 10 13:07:00 2022] 127.0.0.1:37632 [200]: GET /api/commando
+[Thu Nov 10 13:07:00 2022] 127.0.0.1:37632 Closing
+[Thu Nov 10 13:07:00 2022] 127.0.0.1:37636 Accepted
+[Thu Nov 10 13:07:00 2022] 127.0.0.1:37636 [200]: GET /api/commando
+[Thu Nov 10 13:07:00 2022] 127.0.0.1:37636 Closing
+[Thu Nov 10 13:08:59 2022] 127.0.0.1:37638 Accepted
+[Thu Nov 10 13:08:59 2022] 127.0.0.1:37638 [200]: GET /
+[Thu Nov 10 13:08:59 2022] 127.0.0.1:37638 Closing
+[Thu Nov 10 13:09:09 2022] 127.0.0.1:37640 Accepted
+[Thu Nov 10 13:09:09 2022] 127.0.0.1:37640 [200]: GET /api/commando
+[Thu Nov 10 13:09:09 2022] 127.0.0.1:37640 Closing
+[Thu Nov 10 13:09:09 2022] 127.0.0.1:37642 Accepted
+[Thu Nov 10 13:09:09 2022] 127.0.0.1:37642 [200]: GET /api/commando
+[Thu Nov 10 13:09:09 2022] 127.0.0.1:37642 Closing
+[Thu Nov 10 13:09:33 2022] 127.0.0.1:37644 Accepted
+[Thu Nov 10 13:09:33 2022] 127.0.0.1:37644 [200]: GET /api/commando
+[Thu Nov 10 13:09:33 2022] 127.0.0.1:37644 Closing
+[Thu Nov 10 13:09:33 2022] 127.0.0.1:37646 Accepted
+[Thu Nov 10 13:09:33 2022] 127.0.0.1:37646 [200]: GET /api/commando
+[Thu Nov 10 13:09:33 2022] 127.0.0.1:37646 Closing
+[Thu Nov 10 13:10:09 2022] 127.0.0.1:37650 Accepted
+[Thu Nov 10 13:10:09 2022] 127.0.0.1:37650 [200]: GET /api/commando
+[Thu Nov 10 13:10:09 2022] 127.0.0.1:37650 Closing
+[Thu Nov 10 13:10:09 2022] 127.0.0.1:37654 Accepted
+[Thu Nov 10 13:10:09 2022] 127.0.0.1:37654 [200]: GET /api/commando
+[Thu Nov 10 13:10:09 2022] 127.0.0.1:37654 Closing
+[Thu Nov 10 13:10:29 2022] 127.0.0.1:37656 Accepted
+[Thu Nov 10 13:10:29 2022] 127.0.0.1:37656 [200]: GET /api/commando
+[Thu Nov 10 13:10:29 2022] 127.0.0.1:37656 Closing
+[Thu Nov 10 13:10:29 2022] 127.0.0.1:37658 Accepted
+[Thu Nov 10 13:10:29 2022] 127.0.0.1:37658 [200]: GET /api/commando
+[Thu Nov 10 13:10:29 2022] 127.0.0.1:37658 Closing
+[Thu Nov 10 13:10:58 2022] 127.0.0.1:37662 Accepted
+[Thu Nov 10 13:10:58 2022] 127.0.0.1:37662 [200]: GET /api/commando
+[Thu Nov 10 13:10:58 2022] 127.0.0.1:37662 Closing
+[Thu Nov 10 13:10:58 2022] 127.0.0.1:37664 Accepted
+[Thu Nov 10 13:10:58 2022] 127.0.0.1:37664 [200]: GET /api/commando
+[Thu Nov 10 13:10:58 2022] 127.0.0.1:37664 Closing
+[Thu Nov 10 13:11:15 2022] 127.0.0.1:37666 Accepted
+[Thu Nov 10 13:11:15 2022] 127.0.0.1:37666 [200]: GET /api/commando
+[Thu Nov 10 13:11:15 2022] 127.0.0.1:37666 Closing
+[Thu Nov 10 13:11:15 2022] 127.0.0.1:37668 Accepted
+[Thu Nov 10 13:11:15 2022] 127.0.0.1:37668 [200]: GET /api/commando
+[Thu Nov 10 13:11:15 2022] 127.0.0.1:37668 Closing
+[Thu Nov 10 13:11:17 2022] 127.0.0.1:37670 Accepted
+[Thu Nov 10 13:11:17 2022] 127.0.0.1:37670 [200]: GET /api/commando/97b5e13d-d414-43a9-b1c9-58b57e920fe3
+[Thu Nov 10 13:11:17 2022] 127.0.0.1:37670 Closing
+[Thu Nov 10 13:11:17 2022] 127.0.0.1:37672 Accepted
+[Thu Nov 10 13:11:17 2022] 127.0.0.1:37672 [200]: GET /api/commando/97b5e13d-d414-43a9-b1c9-58b57e920fe3
+[Thu Nov 10 13:11:17 2022] 127.0.0.1:37672 Closing
+[Thu Nov 10 13:11:36 2022] 127.0.0.1:37674 Accepted
+[Thu Nov 10 13:11:36 2022] 127.0.0.1:37674 [200]: GET /api/commando/97b5e13d-d414-43a9-b1c9-58b57e920fe3
+[Thu Nov 10 13:11:36 2022] 127.0.0.1:37674 Closing
+[Thu Nov 10 13:11:36 2022] 127.0.0.1:37676 Accepted
+[Thu Nov 10 13:11:36 2022] 127.0.0.1:37676 [200]: GET /api/commando/97b5e13d-d414-43a9-b1c9-58b57e920fe3
+[Thu Nov 10 13:11:36 2022] 127.0.0.1:37676 Closing
+[Thu Nov 10 13:11:45 2022] 127.0.0.1:37678 Accepted
+[Thu Nov 10 13:11:46 2022] 127.0.0.1:37678 [200]: GET /api/commando/97b5e13d-d414-43a9-b1c9-58b57e920fe3
+[Thu Nov 10 13:11:46 2022] 127.0.0.1:37678 Closing
+[Thu Nov 10 13:11:46 2022] 127.0.0.1:37680 Accepted
+[Thu Nov 10 13:11:46 2022] 127.0.0.1:37680 [200]: GET /api/commando/97b5e13d-d414-43a9-b1c9-58b57e920fe3
+[Thu Nov 10 13:11:46 2022] 127.0.0.1:37680 Closing
+[Thu Nov 10 13:12:11 2022] 127.0.0.1:37682 Accepted
+[Thu Nov 10 13:12:11 2022] 127.0.0.1:37682 [200]: GET /api/commando/97b5e13d-d414-43a9-b1c9-58b57e920fe3
+[Thu Nov 10 13:12:11 2022] 127.0.0.1:37682 Closing
+[Thu Nov 10 13:12:11 2022] 127.0.0.1:37684 Accepted
+[Thu Nov 10 13:12:11 2022] 127.0.0.1:37684 [200]: GET /api/commando/97b5e13d-d414-43a9-b1c9-58b57e920fe3
+[Thu Nov 10 13:12:11 2022] 127.0.0.1:37684 Closing
+[Thu Nov 10 13:12:14 2022] 127.0.0.1:37686 Accepted
+[Thu Nov 10 13:12:14 2022] 127.0.0.1:37686 [200]: GET /api/commando/97b5e13d-d414-43a9-b1c9-58b57e920fe3
+[Thu Nov 10 13:12:14 2022] 127.0.0.1:37686 Closing
+[Thu Nov 10 13:12:14 2022] 127.0.0.1:37688 Accepted
+[Thu Nov 10 13:12:14 2022] 127.0.0.1:37688 [200]: GET /api/commando/97b5e13d-d414-43a9-b1c9-58b57e920fe3
+[Thu Nov 10 13:12:14 2022] 127.0.0.1:37688 Closing
+[Thu Nov 10 13:12:16 2022] 127.0.0.1:37690 Accepted
+[Thu Nov 10 13:12:16 2022] 127.0.0.1:37690 [200]: GET /api/commando/97b5e13d-d414-43a9-b1c9-58b57e920fe3
+[Thu Nov 10 13:12:16 2022] 127.0.0.1:37690 Closing
+[Thu Nov 10 13:12:16 2022] 127.0.0.1:37692 Accepted
+[Thu Nov 10 13:12:16 2022] 127.0.0.1:37692 [200]: GET /api/commando/97b5e13d-d414-43a9-b1c9-58b57e920fe3
+[Thu Nov 10 13:12:16 2022] 127.0.0.1:37692 Closing
+[Thu Nov 10 13:12:19 2022] 127.0.0.1:37694 Accepted
+[Thu Nov 10 13:12:19 2022] 127.0.0.1:37694 [200]: DELETE /api/commando/97b5e13d-d414-43a9-b1c9-58b57e920fe3
+[Thu Nov 10 13:12:19 2022] 127.0.0.1:37694 Closing
+[Thu Nov 10 13:12:19 2022] 127.0.0.1:37696 Accepted
+[Thu Nov 10 13:12:19 2022] 127.0.0.1:37696 [200]: GET /api/commando
+[Thu Nov 10 13:12:19 2022] 127.0.0.1:37696 Closing
+[Thu Nov 10 13:12:19 2022] 127.0.0.1:37698 Accepted
+[Thu Nov 10 13:12:19 2022] 127.0.0.1:37698 [200]: GET /api/commando
+[Thu Nov 10 13:12:19 2022] 127.0.0.1:37698 Closing
+[Thu Nov 10 13:12:25 2022] 127.0.0.1:37700 Accepted
+[Thu Nov 10 13:12:25 2022] 127.0.0.1:37700 [201]: POST /api/commando
+[Thu Nov 10 13:12:25 2022] 127.0.0.1:37700 Closing
+[Thu Nov 10 13:12:26 2022] 127.0.0.1:37702 Accepted
+[Thu Nov 10 13:12:26 2022] 127.0.0.1:37702 [200]: GET /api/commando/97b5fc1c-2cb4-462e-a4f3-a56f36b6ece1
+[Thu Nov 10 13:12:26 2022] 127.0.0.1:37702 Closing
+[Thu Nov 10 13:12:26 2022] 127.0.0.1:37704 Accepted
+[Thu Nov 10 13:12:26 2022] 127.0.0.1:37704 [200]: GET /api/commando/97b5fc1c-2cb4-462e-a4f3-a56f36b6ece1
+[Thu Nov 10 13:12:26 2022] 127.0.0.1:37704 Closing
+[Thu Nov 10 13:12:29 2022] 127.0.0.1:37706 Accepted
+[Thu Nov 10 13:12:29 2022] 127.0.0.1:37706 [200]: GET /api/commando
+[Thu Nov 10 13:12:29 2022] 127.0.0.1:37706 Closing
+[Thu Nov 10 13:12:29 2022] 127.0.0.1:37710 Accepted
+[Thu Nov 10 13:12:29 2022] 127.0.0.1:37710 [200]: GET /api/commando
+[Thu Nov 10 13:12:29 2022] 127.0.0.1:37710 Closing
+[Thu Nov 10 13:13:06 2022] 127.0.0.1:37712 Accepted
+[Thu Nov 10 13:13:06 2022] 127.0.0.1:37712 [200]: GET /api/commando
+[Thu Nov 10 13:13:06 2022] 127.0.0.1:37712 Closing
+[Thu Nov 10 13:13:08 2022] 127.0.0.1:37714 Accepted
+[Thu Nov 10 13:13:08 2022] 127.0.0.1:37714 [200]: GET /api/commando
+[Thu Nov 10 13:13:08 2022] 127.0.0.1:37714 Closing
+[Thu Nov 10 13:13:12 2022] 127.0.0.1:37716 Accepted
+[Thu Nov 10 13:13:12 2022] 127.0.0.1:37716 [200]: GET /api/commando
+[Thu Nov 10 13:13:12 2022] 127.0.0.1:37716 Closing
+[Thu Nov 10 13:13:15 2022] 127.0.0.1:37718 Accepted
+[Thu Nov 10 13:13:15 2022] 127.0.0.1:37718 [200]: GET /api/commando
+[Thu Nov 10 13:13:15 2022] 127.0.0.1:37718 Closing
+[Thu Nov 10 13:13:19 2022] 127.0.0.1:37720 Accepted
+[Thu Nov 10 13:13:19 2022] 127.0.0.1:37720 [200]: GET /api/commando
+[Thu Nov 10 13:13:19 2022] 127.0.0.1:37720 Closing
+[Thu Nov 10 13:13:22 2022] 127.0.0.1:37722 Accepted
+[Thu Nov 10 13:13:22 2022] 127.0.0.1:37722 [200]: GET /api/commando
+[Thu Nov 10 13:13:22 2022] 127.0.0.1:37722 Closing
+[Thu Nov 10 13:13:27 2022] 127.0.0.1:37724 Accepted
+[Thu Nov 10 13:13:27 2022] 127.0.0.1:37724 [200]: GET /api/commando/97b5fc1c-2cb4-462e-a4f3-a56f36b6ece1
+[Thu Nov 10 13:13:27 2022] 127.0.0.1:37724 Closing
+[Thu Nov 10 13:13:27 2022] 127.0.0.1:37726 Accepted
+[Thu Nov 10 13:13:27 2022] 127.0.0.1:37726 [200]: GET /api/commando/97b5fc1c-2cb4-462e-a4f3-a56f36b6ece1
+[Thu Nov 10 13:13:27 2022] 127.0.0.1:37726 Closing
+[Thu Nov 10 13:13:28 2022] 127.0.0.1:37728 Accepted
+[Thu Nov 10 13:13:28 2022] 127.0.0.1:37728 [200]: GET /api/commando
+[Thu Nov 10 13:13:28 2022] 127.0.0.1:37728 Closing
+[Thu Nov 10 13:13:28 2022] 127.0.0.1:37730 Accepted
+[Thu Nov 10 13:13:28 2022] 127.0.0.1:37730 [200]: GET /api/commando
+[Thu Nov 10 13:13:28 2022] 127.0.0.1:37730 Closing
+[Thu Nov 10 13:16:43 2022] 127.0.0.1:37732 Accepted
+[Thu Nov 10 13:16:43 2022] 127.0.0.1:37732 [200]: GET /api/commando
+[Thu Nov 10 13:16:43 2022] 127.0.0.1:37732 Closing
+[Thu Nov 10 13:16:43 2022] 127.0.0.1:37734 Accepted
+[Thu Nov 10 13:16:43 2022] 127.0.0.1:37734 [200]: GET /api/commando
+[Thu Nov 10 13:16:43 2022] 127.0.0.1:37734 Closing
+[Thu Nov 10 13:16:48 2022] 127.0.0.1:37736 Accepted
+[Thu Nov 10 13:16:48 2022] 127.0.0.1:37736 [200]: GET /api/commando
+[Thu Nov 10 13:16:48 2022] 127.0.0.1:37736 Closing
+[Thu Nov 10 13:16:48 2022] 127.0.0.1:37738 Accepted
+[Thu Nov 10 13:16:48 2022] 127.0.0.1:37738 [200]: GET /api/commando
+[Thu Nov 10 13:16:48 2022] 127.0.0.1:37738 Closing
+[Thu Nov 10 13:16:55 2022] 127.0.0.1:37740 Accepted
+[Thu Nov 10 13:16:55 2022] 127.0.0.1:37742 Accepted
+[Thu Nov 10 13:16:55 2022] 127.0.0.1:37740 [200]: GET /api/commando
+[Thu Nov 10 13:16:55 2022] 127.0.0.1:37740 Closing
+[Thu Nov 10 13:16:55 2022] 127.0.0.1:37742 [200]: GET /api/commando
+[Thu Nov 10 13:16:55 2022] 127.0.0.1:37742 Closing
+[Thu Nov 10 13:17:00 2022] 127.0.0.1:37744 Accepted
+[Thu Nov 10 13:17:00 2022] 127.0.0.1:37746 Accepted
+[Thu Nov 10 13:17:00 2022] 127.0.0.1:37744 [200]: GET /api/commando
+[Thu Nov 10 13:17:00 2022] 127.0.0.1:37744 Closing
+[Thu Nov 10 13:17:00 2022] 127.0.0.1:37746 [200]: GET /api/commando
+[Thu Nov 10 13:17:00 2022] 127.0.0.1:37746 Closing
+[Thu Nov 10 13:18:20 2022] 127.0.0.1:37748 Accepted
+[Thu Nov 10 13:18:20 2022] 127.0.0.1:37750 Accepted
+[Thu Nov 10 13:18:20 2022] 127.0.0.1:37748 [200]: GET /api/commando
+[Thu Nov 10 13:18:20 2022] 127.0.0.1:37748 Closing
+[Thu Nov 10 13:18:20 2022] 127.0.0.1:37750 [200]: GET /api/commando
+[Thu Nov 10 13:18:20 2022] 127.0.0.1:37750 Closing
+[Thu Nov 10 13:20:25 2022] 127.0.0.1:37752 Accepted
+[Thu Nov 10 13:20:25 2022] 127.0.0.1:37752 [200]: GET /
+[Thu Nov 10 13:20:25 2022] 127.0.0.1:37752 Closing
+[Thu Nov 10 13:26:29 2022] 127.0.0.1:37754 Accepted
+[Thu Nov 10 13:26:29 2022] 127.0.0.1:37754 [200]: GET /api/commando
+[Thu Nov 10 13:26:29 2022] 127.0.0.1:37754 Closing
+[Thu Nov 10 13:26:30 2022] 127.0.0.1:37756 Accepted
+[Thu Nov 10 13:26:30 2022] 127.0.0.1:37756 [200]: GET /api/commando
+[Thu Nov 10 13:26:30 2022] 127.0.0.1:37756 Closing
+[Thu Nov 10 13:26:33 2022] 127.0.0.1:37758 Accepted
+[Thu Nov 10 13:26:33 2022] 127.0.0.1:37758 [200]: GET /api/commando/97b5ee04-fc75-498f-b010-d4729ebfe958
+[Thu Nov 10 13:26:33 2022] 127.0.0.1:37758 Closing
+[Thu Nov 10 13:26:33 2022] 127.0.0.1:37760 Accepted
+[Thu Nov 10 13:26:33 2022] 127.0.0.1:37760 [200]: GET /api/commando/97b5ee04-fc75-498f-b010-d4729ebfe958
+[Thu Nov 10 13:26:33 2022] 127.0.0.1:37760 Closing
+[Thu Nov 10 13:26:35 2022] 127.0.0.1:37762 Accepted
+[Thu Nov 10 13:26:35 2022] 127.0.0.1:37762 [200]: GET /api/commando
+[Thu Nov 10 13:26:35 2022] 127.0.0.1:37762 Closing
+[Thu Nov 10 13:26:35 2022] 127.0.0.1:37764 Accepted
+[Thu Nov 10 13:26:35 2022] 127.0.0.1:37764 [200]: GET /api/commando
+[Thu Nov 10 13:26:35 2022] 127.0.0.1:37764 Closing
+[Thu Nov 10 13:27:17 2022] 127.0.0.1:37766 Accepted
+[Thu Nov 10 13:27:17 2022] 127.0.0.1:37766 [200]: GET /api/commando
+[Thu Nov 10 13:27:17 2022] 127.0.0.1:37766 Closing
+[Thu Nov 10 13:27:18 2022] 127.0.0.1:37768 Accepted
+[Thu Nov 10 13:27:18 2022] 127.0.0.1:37768 [200]: GET /api/commando
+[Thu Nov 10 13:27:18 2022] 127.0.0.1:37768 Closing
+[Thu Nov 10 13:39:23 2022] 127.0.0.1:37770 Accepted
+[Thu Nov 10 13:39:23 2022] 127.0.0.1:37770 [404]: POST /api/auth
+[Thu Nov 10 13:39:23 2022] 127.0.0.1:37770 Closing
+[Thu Nov 10 13:39:24 2022] 127.0.0.1:37772 Accepted
+[Thu Nov 10 13:39:24 2022] 127.0.0.1:37772 [404]: POST /api/auth
+[Thu Nov 10 13:39:24 2022] 127.0.0.1:37772 Closing
+[Thu Nov 10 13:39:29 2022] 127.0.0.1:37774 Accepted
+[Thu Nov 10 13:39:29 2022] 127.0.0.1:37774 [404]: POST /api/auth
+[Thu Nov 10 13:39:29 2022] 127.0.0.1:37774 Closing
+[Thu Nov 10 13:39:57 2022] 127.0.0.1:37776 Accepted
+[Thu Nov 10 13:39:57 2022] 127.0.0.1:37776 [404]: POST /api/auth
+[Thu Nov 10 13:39:57 2022] 127.0.0.1:37776 Closing
+[Thu Nov 10 13:41:33 2022] 127.0.0.1:37778 Accepted
+[Thu Nov 10 13:41:33 2022] 127.0.0.1:37778 [404]: POST /api/auth/login/21412
+[Thu Nov 10 13:41:33 2022] 127.0.0.1:37778 Closing
+[Thu Nov 10 13:43:00 2022] 127.0.0.1:37780 Accepted
+[Thu Nov 10 13:43:00 2022] 127.0.0.1:37780 [200]: GET /api/commando
+[Thu Nov 10 13:43:00 2022] 127.0.0.1:37780 Closing
+[Thu Nov 10 13:43:01 2022] 127.0.0.1:37782 Accepted
+[Thu Nov 10 13:43:01 2022] 127.0.0.1:37782 [200]: GET /api/commando
+[Thu Nov 10 13:43:01 2022] 127.0.0.1:37782 Closing
+[Thu Nov 10 13:43:09 2022] 127.0.0.1:37784 Accepted
+[Thu Nov 10 13:43:09 2022] 127.0.0.1:37784 [200]: POST /api/auth/login/qwrqw - Could not check compatibility between App\Exceptions\Handler::render($request, App\Exceptions\Exception $e) and Laravel\Lumen\Exceptions\Handler::render($request, Throwable $e), because class App\Exceptions\Exception is not available in /home/ryan-ubuntu/dev/devbox/app/Exceptions/Handler.php on line 50
+[Thu Nov 10 13:43:09 2022] 127.0.0.1:37784 Closing
+[Thu Nov 10 13:43:22 2022] 127.0.0.1:37786 Accepted
+[Thu Nov 10 13:43:22 2022] 127.0.0.1:37786 [200]: POST /api/auth/login/wqqw - Could not check compatibility between App\Exceptions\Handler::render($request, App\Exceptions\Exception $e) and Laravel\Lumen\Exceptions\Handler::render($request, Throwable $e), because class App\Exceptions\Exception is not available in /home/ryan-ubuntu/dev/devbox/app/Exceptions/Handler.php on line 50
+[Thu Nov 10 13:43:22 2022] 127.0.0.1:37786 Closing
+[Thu Nov 10 13:44:08 2022] 127.0.0.1:37788 Accepted
+[Thu Nov 10 13:44:08 2022] 127.0.0.1:37788 [200]: GET /api/auth/login/wqqw - Uncaught ErrorException: Undefined variable $e in /home/ryan-ubuntu/dev/devbox/app/Exceptions/Handler.php:55
+Stack trace:
+#0 /home/ryan-ubuntu/dev/devbox/vendor/laravel/lumen-framework/src/Concerns/RegistersExceptionHandlers.php(47): Laravel\Lumen\Application->handleError(2, 'Undefined varia...', '/home/ryan-ubun...', 55)
+#1 /home/ryan-ubuntu/dev/devbox/app/Exceptions/Handler.php(55): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Undefined varia...', '/home/ryan-ubun...', 55)
+#2 /home/ryan-ubuntu/dev/devbox/vendor/laravel/lumen-framework/src/Concerns/RegistersExceptionHandlers.php(205): App\Exceptions\Handler->render(Object(Laravel\Lumen\Http\Request), Object(ErrorException))
+#3 /home/ryan-ubuntu/dev/devbox/vendor/laravel/lumen-framework/src/Concerns/RegistersExceptionHandlers.php(51): Laravel\Lumen\Application->handleException(Object(ErrorException))
+#4 [internal function]: Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(Object(ErrorException))
+#5 {main}
+  thrown in /home/ryan-ubuntu/dev/devbox/app/Exceptions/Handler.php on line 55
+[Thu Nov 10 13:44:08 2022] 127.0.0.1:37788 Closing
+[Thu Nov 10 13:44:16 2022] 127.0.0.1:37790 Accepted
+[Thu Nov 10 13:44:16 2022] 127.0.0.1:37790 [500]: GET /api/auth/login/wqqw
+[Thu Nov 10 13:44:16 2022] 127.0.0.1:37790 Closing
+[Thu Nov 10 13:45:39 2022] 127.0.0.1:37792 Accepted
+[Thu Nov 10 13:45:39 2022] 127.0.0.1:37792 [500]: GET /api/auth/login/wqqw
+[Thu Nov 10 13:45:39 2022] 127.0.0.1:37792 Closing
+[Thu Nov 10 13:45:57 2022] 127.0.0.1:37794 Accepted
+[Thu Nov 10 13:45:57 2022] 127.0.0.1:37794 [500]: GET /api/auth/login/wqqw
+[Thu Nov 10 13:45:57 2022] 127.0.0.1:37794 Closing
+[Thu Nov 10 13:46:19 2022] 127.0.0.1:37796 Accepted
+[Thu Nov 10 13:46:19 2022] 127.0.0.1:37796 [500]: GET /api/auth/login/wqqw
+[Thu Nov 10 13:46:19 2022] 127.0.0.1:37796 Closing
+[Thu Nov 10 13:46:22 2022] 127.0.0.1:37798 Accepted
+[Thu Nov 10 13:46:22 2022] 127.0.0.1:37798 [500]: GET /api/auth/login/wqqwsaas
+[Thu Nov 10 13:46:22 2022] 127.0.0.1:37798 Closing
+[Thu Nov 10 13:46:37 2022] 127.0.0.1:37800 Accepted
+[Thu Nov 10 13:46:37 2022] 127.0.0.1:37800 [500]: GET /api/auth/login/wqqwsaas
+[Thu Nov 10 13:46:37 2022] 127.0.0.1:37800 Closing
+[Thu Nov 10 13:47:06 2022] 127.0.0.1:37802 Accepted
+[Thu Nov 10 13:47:06 2022] 127.0.0.1:37802 [200]: GET /api/auth/login/wqqwsaas - Uncaught ErrorException: Undefined variable $status in /home/ryan-ubuntu/dev/devbox/app/Exceptions/Handler.php:69
+Stack trace:
+#0 /home/ryan-ubuntu/dev/devbox/vendor/laravel/lumen-framework/src/Concerns/RegistersExceptionHandlers.php(47): Laravel\Lumen\Application->handleError(2, 'Undefined varia...', '/home/ryan-ubun...', 69)
+#1 /home/ryan-ubuntu/dev/devbox/app/Exceptions/Handler.php(69): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Undefined varia...', '/home/ryan-ubun...', 69)
+#2 /home/ryan-ubuntu/dev/devbox/vendor/laravel/lumen-framework/src/Concerns/RegistersExceptionHandlers.php(205): App\Exceptions\Handler->render(Object(Laravel\Lumen\Http\Request), Object(ErrorException))
+#3 /home/ryan-ubuntu/dev/devbox/vendor/laravel/lumen-framework/src/Concerns/RegistersExceptionHandlers.php(51): Laravel\Lumen\Application->handleException(Object(ErrorException))
+#4 [internal function]: Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(Object(ErrorException))
+#5 {main}
+  thrown in /home/ryan-ubuntu/dev/devbox/app/Exceptions/Handler.php on line 69
+[Thu Nov 10 13:47:06 2022] 127.0.0.1:37802 Closing
+[Thu Nov 10 13:47:15 2022] 127.0.0.1:37804 Accepted
+[Thu Nov 10 13:47:15 2022] 127.0.0.1:37804 [404]: GET /api/auth/login/wqqwsaas
+[Thu Nov 10 13:47:15 2022] 127.0.0.1:37804 Closing
+[Thu Nov 10 13:47:21 2022] 127.0.0.1:37806 Accepted
+[Thu Nov 10 13:47:21 2022] 127.0.0.1:37806 [404]: GET /api/auth/login/wqqwsaas
+[Thu Nov 10 13:47:21 2022] 127.0.0.1:37806 Closing
+[Thu Nov 10 13:47:43 2022] 127.0.0.1:37808 Accepted
+[Thu Nov 10 13:47:43 2022] 127.0.0.1:37808 [404]: GET /
+[Thu Nov 10 13:47:43 2022] 127.0.0.1:37808 Closing
+[Thu Nov 10 13:47:45 2022] 127.0.0.1:37810 Accepted
+[Thu Nov 10 13:47:45 2022] 127.0.0.1:37810 [404]: GET /
+[Thu Nov 10 13:47:45 2022] 127.0.0.1:37810 Closing
+[Thu Nov 10 13:48:52 2022] 127.0.0.1:37812 Accepted
+[Thu Nov 10 13:48:52 2022] 127.0.0.1:37812 [404]: GET /api/auth/login/wqqwsaas
+[Thu Nov 10 13:48:52 2022] 127.0.0.1:37812 Closing
+[Thu Nov 10 13:48:53 2022] 127.0.0.1:37814 Accepted
+[Thu Nov 10 13:48:53 2022] 127.0.0.1:37814 [404]: GET /api/auth/login/wqqwsaas
+[Thu Nov 10 13:48:53 2022] 127.0.0.1:37814 Closing
+[Thu Nov 10 13:49:01 2022] 127.0.0.1:37816 Accepted
+[Thu Nov 10 13:49:06 2022] 127.0.0.1:37818 Accepted
+[Thu Nov 10 13:49:06 2022] 127.0.0.1:37818 [200]: GET /
+[Thu Nov 10 13:49:06 2022] 127.0.0.1:37818 Closing
+[Thu Nov 10 13:49:15 2022] 127.0.0.1:37822 Accepted
+[Thu Nov 10 13:49:15 2022] 127.0.0.1:37822 [404]: GET /
+[Thu Nov 10 13:49:15 2022] 127.0.0.1:37822 Closing
+[Thu Nov 10 13:49:31 2022] 127.0.0.1:37816 Closed without sending a request; it was probably just an unused speculative preconnection
+[Thu Nov 10 13:49:31 2022] 127.0.0.1:37816 Closing
+[Thu Nov 10 13:53:19 2022] 127.0.0.1:37824 Accepted
+[Thu Nov 10 13:53:19 2022] 127.0.0.1:37824 [500]: GET /
+[Thu Nov 10 13:53:19 2022] 127.0.0.1:37824 Closing
+[Thu Nov 10 13:53:20 2022] 127.0.0.1:37826 Accepted
+[Thu Nov 10 13:53:20 2022] 127.0.0.1:37826 [500]: GET /
+[Thu Nov 10 13:53:20 2022] 127.0.0.1:37826 Closing
+[Thu Nov 10 13:53:20 2022] 127.0.0.1:37828 Accepted
+[Thu Nov 10 13:53:20 2022] 127.0.0.1:37828 [500]: GET /
+[Thu Nov 10 13:53:20 2022] 127.0.0.1:37828 Closing
+[Thu Nov 10 13:53:20 2022] 127.0.0.1:37830 Accepted
+[Thu Nov 10 13:53:20 2022] 127.0.0.1:37830 [500]: GET /
+[Thu Nov 10 13:53:20 2022] 127.0.0.1:37830 Closing
+[Thu Nov 10 13:53:22 2022] 127.0.0.1:37832 Accepted
+[Thu Nov 10 13:53:22 2022] 127.0.0.1:37832 [500]: GET /
+[Thu Nov 10 13:53:22 2022] 127.0.0.1:37832 Closing
+[Thu Nov 10 13:53:22 2022] 127.0.0.1:37834 Accepted
+[Thu Nov 10 13:53:22 2022] 127.0.0.1:37834 [500]: GET /
+[Thu Nov 10 13:53:22 2022] 127.0.0.1:37834 Closing
+[Thu Nov 10 13:54:05 2022] 127.0.0.1:37836 Accepted
+[Thu Nov 10 13:54:05 2022] 127.0.0.1:37836 [200]: GET /api/commando
+[Thu Nov 10 13:54:05 2022] 127.0.0.1:37836 Closing
+[Thu Nov 10 13:54:05 2022] 127.0.0.1:37838 Accepted
+[Thu Nov 10 13:54:05 2022] 127.0.0.1:37838 [200]: GET /api/commando
+[Thu Nov 10 13:54:05 2022] 127.0.0.1:37838 Closing
+[Thu Nov 10 13:54:18 2022] 127.0.0.1:37840 Accepted
+[Thu Nov 10 13:54:18 2022] 127.0.0.1:37840 [500]: POST /api/auth/login/y
+[Thu Nov 10 13:54:18 2022] 127.0.0.1:37840 Closing
+[Thu Nov 10 13:54:23 2022] 127.0.0.1:37842 Accepted
+[Thu Nov 10 13:54:23 2022] 127.0.0.1:37842 [500]: POST /api/auth/login/y
+[Thu Nov 10 13:54:23 2022] 127.0.0.1:37842 Closing
+[Thu Nov 10 13:54:57 2022] 127.0.0.1:37844 Accepted
+[Thu Nov 10 13:55:11 2022] 127.0.0.1:37846 Accepted
+[Thu Nov 10 13:55:11 2022] 127.0.0.1:37848 Accepted
+[Thu Nov 10 13:55:11 2022] 127.0.0.1:37846 [200]: GET /api/commando
+[Thu Nov 10 13:55:11 2022] 127.0.0.1:37846 Closing
+[Thu Nov 10 13:55:11 2022] 127.0.0.1:37848 [200]: GET /api/commando
+[Thu Nov 10 13:55:11 2022] 127.0.0.1:37848 Closing
+[Thu Nov 10 13:55:27 2022] 127.0.0.1:37844 Closed without sending a request; it was probably just an unused speculative preconnection
+[Thu Nov 10 13:55:27 2022] 127.0.0.1:37844 Closing
+[Thu Nov 10 13:55:29 2022] 127.0.0.1:37850 Accepted
+[Thu Nov 10 13:55:29 2022] 127.0.0.1:37850 [500]: POST /api/auth/login/rqwewqer
+[Thu Nov 10 13:55:29 2022] 127.0.0.1:37850 Closing
+[Thu Nov 10 13:56:57 2022] 127.0.0.1:37852 Accepted
+[Thu Nov 10 13:56:57 2022] 127.0.0.1:37852 [200]: GET / - Uncaught ErrorException: Undefined variable $status in /home/ryan-ubuntu/dev/devbox/app/Exceptions/Handler.php:55
+Stack trace:
+#0 /home/ryan-ubuntu/dev/devbox/vendor/laravel/lumen-framework/src/Concerns/RegistersExceptionHandlers.php(47): Laravel\Lumen\Application->handleError(2, 'Undefined varia...', '/home/ryan-ubun...', 55)
+#1 /home/ryan-ubuntu/dev/devbox/app/Exceptions/Handler.php(55): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Undefined varia...', '/home/ryan-ubun...', 55)
+#2 /home/ryan-ubuntu/dev/devbox/vendor/laravel/lumen-framework/src/Concerns/RegistersExceptionHandlers.php(205): App\Exceptions\Handler->render(Object(Laravel\Lumen\Http\Request), Object(ErrorException))
+#3 /home/ryan-ubuntu/dev/devbox/vendor/laravel/lumen-framework/src/Concerns/RegistersExceptionHandlers.php(51): Laravel\Lumen\Application->handleException(Object(ErrorException))
+#4 [internal function]: Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(Object(ErrorException))
+#5 {main}
+  thrown in /home/ryan-ubuntu/dev/devbox/app/Exceptions/Handler.php on line 55
+[Thu Nov 10 13:56:57 2022] 127.0.0.1:37852 Closing
+[Thu Nov 10 13:57:05 2022] 127.0.0.1:37854 Accepted
+[Thu Nov 10 13:57:05 2022] 127.0.0.1:37854 [200]: GET / - Uncaught Error: Call to undefined method Error::getStatus() in /home/ryan-ubuntu/dev/devbox/app/Exceptions/Handler.php:55
+Stack trace:
+#0 /home/ryan-ubuntu/dev/devbox/vendor/laravel/lumen-framework/src/Concerns/RegistersExceptionHandlers.php(205): App\Exceptions\Handler->render(Object(Laravel\Lumen\Http\Request), Object(Error))
+#1 /home/ryan-ubuntu/dev/devbox/vendor/laravel/lumen-framework/src/Concerns/RegistersExceptionHandlers.php(51): Laravel\Lumen\Application->handleException(Object(Error))
+#2 [internal function]: Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(Object(Error))
+#3 {main}
+  thrown in /home/ryan-ubuntu/dev/devbox/app/Exceptions/Handler.php on line 55
+[Thu Nov 10 13:57:05 2022] 127.0.0.1:37854 Closing
+[Thu Nov 10 14:00:47 2022] 127.0.0.1:37856 Accepted
+[Thu Nov 10 14:00:47 2022] 127.0.0.1:37856 [200]: GET / - Uncaught Error: Call to undefined method Error::statusCode() in /home/ryan-ubuntu/dev/devbox/app/Exceptions/Handler.php:55
+Stack trace:
+#0 /home/ryan-ubuntu/dev/devbox/vendor/laravel/lumen-framework/src/Concerns/RegistersExceptionHandlers.php(205): App\Exceptions\Handler->render(Object(Laravel\Lumen\Http\Request), Object(Error))
+#1 /home/ryan-ubuntu/dev/devbox/vendor/laravel/lumen-framework/src/Concerns/RegistersExceptionHandlers.php(51): Laravel\Lumen\Application->handleException(Object(Error))
+#2 [internal function]: Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(Object(Error))
+#3 {main}
+  thrown in /home/ryan-ubuntu/dev/devbox/app/Exceptions/Handler.php on line 55
+[Thu Nov 10 14:00:47 2022] 127.0.0.1:37856 Closing
+[Thu Nov 10 14:00:54 2022] 127.0.0.1:37858 Accepted
+[Thu Nov 10 14:00:54 2022] 127.0.0.1:37858 [200]: GET / - Uncaught Error: Call to undefined method Error::getStatus() in /home/ryan-ubuntu/dev/devbox/app/Exceptions/Handler.php:56
+Stack trace:
+#0 /home/ryan-ubuntu/dev/devbox/vendor/laravel/lumen-framework/src/Concerns/RegistersExceptionHandlers.php(205): App\Exceptions\Handler->render(Object(Laravel\Lumen\Http\Request), Object(Error))
+#1 /home/ryan-ubuntu/dev/devbox/vendor/laravel/lumen-framework/src/Concerns/RegistersExceptionHandlers.php(51): Laravel\Lumen\Application->handleException(Object(Error))
+#2 [internal function]: Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(Object(Error))
+#3 {main}
+  thrown in /home/ryan-ubuntu/dev/devbox/app/Exceptions/Handler.php on line 56
+[Thu Nov 10 14:00:54 2022] 127.0.0.1:37858 Closing
+[Thu Nov 10 14:01:18 2022] 127.0.0.1:37860 Accepted
+[Thu Nov 10 14:01:18 2022] 127.0.0.1:37860 [200]: GET / - Uncaught Error: Call to undefined method Error::getStatusCode() in /home/ryan-ubuntu/dev/devbox/app/Exceptions/Handler.php:55
+Stack trace:
+#0 /home/ryan-ubuntu/dev/devbox/vendor/laravel/lumen-framework/src/Concerns/RegistersExceptionHandlers.php(205): App\Exceptions\Handler->render(Object(Laravel\Lumen\Http\Request), Object(Error))
+#1 /home/ryan-ubuntu/dev/devbox/vendor/laravel/lumen-framework/src/Concerns/RegistersExceptionHandlers.php(51): Laravel\Lumen\Application->handleException(Object(Error))
+#2 [internal function]: Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(Object(Error))
+#3 {main}
+  thrown in /home/ryan-ubuntu/dev/devbox/app/Exceptions/Handler.php on line 55
+[Thu Nov 10 14:01:18 2022] 127.0.0.1:37860 Closing
+[Thu Nov 10 14:01:31 2022] 127.0.0.1:37862 Accepted
+[Thu Nov 10 14:01:31 2022] 127.0.0.1:37862 [200]: GET / - Uncaught Error: Call to undefined method Error::getStatusCode() in /home/ryan-ubuntu/dev/devbox/app/Exceptions/Handler.php:55
+Stack trace:
+#0 /home/ryan-ubuntu/dev/devbox/vendor/laravel/lumen-framework/src/Concerns/RegistersExceptionHandlers.php(205): App\Exceptions\Handler->render(Object(Laravel\Lumen\Http\Request), Object(Error))
+#1 /home/ryan-ubuntu/dev/devbox/vendor/laravel/lumen-framework/src/Concerns/RegistersExceptionHandlers.php(51): Laravel\Lumen\Application->handleException(Object(Error))
+#2 [internal function]: Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(Object(Error))
+#3 {main}
+  thrown in /home/ryan-ubuntu/dev/devbox/app/Exceptions/Handler.php on line 55
+[Thu Nov 10 14:01:31 2022] 127.0.0.1:37862 Closing
+[Thu Nov 10 14:01:32 2022] 127.0.0.1:37864 Accepted
+[Thu Nov 10 14:01:32 2022] 127.0.0.1:37864 [200]: GET / - Uncaught Error: Call to undefined method Error::getStatusCode() in /home/ryan-ubuntu/dev/devbox/app/Exceptions/Handler.php:55
+Stack trace:
+#0 /home/ryan-ubuntu/dev/devbox/vendor/laravel/lumen-framework/src/Concerns/RegistersExceptionHandlers.php(205): App\Exceptions\Handler->render(Object(Laravel\Lumen\Http\Request), Object(Error))
+#1 /home/ryan-ubuntu/dev/devbox/vendor/laravel/lumen-framework/src/Concerns/RegistersExceptionHandlers.php(51): Laravel\Lumen\Application->handleException(Object(Error))
+#2 [internal function]: Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(Object(Error))
+#3 {main}
+  thrown in /home/ryan-ubuntu/dev/devbox/app/Exceptions/Handler.php on line 55
+[Thu Nov 10 14:01:32 2022] 127.0.0.1:37864 Closing
+[Thu Nov 10 14:01:32 2022] 127.0.0.1:37866 Accepted
+[Thu Nov 10 14:01:32 2022] 127.0.0.1:37866 [200]: GET / - Uncaught Error: Call to undefined method Error::getStatusCode() in /home/ryan-ubuntu/dev/devbox/app/Exceptions/Handler.php:55
+Stack trace:
+#0 /home/ryan-ubuntu/dev/devbox/vendor/laravel/lumen-framework/src/Concerns/RegistersExceptionHandlers.php(205): App\Exceptions\Handler->render(Object(Laravel\Lumen\Http\Request), Object(Error))
+#1 /home/ryan-ubuntu/dev/devbox/vendor/laravel/lumen-framework/src/Concerns/RegistersExceptionHandlers.php(51): Laravel\Lumen\Application->handleException(Object(Error))
+#2 [internal function]: Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(Object(Error))
+#3 {main}
+  thrown in /home/ryan-ubuntu/dev/devbox/app/Exceptions/Handler.php on line 55
+[Thu Nov 10 14:01:32 2022] 127.0.0.1:37866 Closing
+[Thu Nov 10 14:02:04 2022] 127.0.0.1:37868 Accepted
+[Thu Nov 10 14:02:04 2022] 127.0.0.1:37868 [200]: GET / - Uncaught Error: Call to undefined method Error::getStatus() in /home/ryan-ubuntu/dev/devbox/app/Exceptions/Handler.php:57
+Stack trace:
+#0 /home/ryan-ubuntu/dev/devbox/vendor/laravel/lumen-framework/src/Concerns/RegistersExceptionHandlers.php(205): App\Exceptions\Handler->render(Object(Laravel\Lumen\Http\Request), Object(Error))
+#1 /home/ryan-ubuntu/dev/devbox/vendor/laravel/lumen-framework/src/Concerns/RegistersExceptionHandlers.php(51): Laravel\Lumen\Application->handleException(Object(Error))
+#2 [internal function]: Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(Object(Error))
+#3 {main}
+  thrown in /home/ryan-ubuntu/dev/devbox/app/Exceptions/Handler.php on line 57
+[Thu Nov 10 14:02:04 2022] 127.0.0.1:37868 Closing
+[Thu Nov 10 14:02:08 2022] 127.0.0.1:37870 Accepted
+[Thu Nov 10 14:02:08 2022] 127.0.0.1:37870 [200]: GET / - Uncaught InvalidArgumentException: The HTTP status code "0" is not valid. in /home/ryan-ubuntu/dev/devbox/vendor/symfony/http-foundation/Response.php:449
+Stack trace:
+#0 /home/ryan-ubuntu/dev/devbox/vendor/symfony/http-foundation/Response.php(221): Symfony\Component\HttpFoundation\Response->setStatusCode(0)
+#1 /home/ryan-ubuntu/dev/devbox/vendor/symfony/http-foundation/JsonResponse.php(41): Symfony\Component\HttpFoundation\Response->__construct('', 0, Array)
+#2 /home/ryan-ubuntu/dev/devbox/vendor/illuminate/http/JsonResponse.php(32): Symfony\Component\HttpFoundation\JsonResponse->__construct(Array, 0, Array, false)
+#3 /home/ryan-ubuntu/dev/devbox/vendor/laravel/lumen-framework/src/Http/ResponseFactory.php(40): Illuminate\Http\JsonResponse->__construct(Array, 0, Array, 0)
+#4 /home/ryan-ubuntu/dev/devbox/app/Exceptions/Handler.php(57): Laravel\Lumen\Http\ResponseFactory->json(Array, 0)
+#5 /home/ryan-ubuntu/dev/devbox/vendor/laravel/lumen-framework/src/Concerns/RegistersExceptionHandlers.php(205): App\Exceptions\Handler->render(Object(Laravel\Lumen\Http\Request), Object(InvalidArgumentException))
+#6 /home/ryan-ubuntu/dev/devbox/vendor/laravel/lumen-framework/src/Concerns/RegistersExceptionHandlers.php(51): Laravel\Lumen\Application->handleException(Object(InvalidArgumentException))
+#7 [internal function]: Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(Object(InvalidArgumentException))
+#8 {main}
+  thrown in /home/ryan-ubuntu/dev/devbox/vendor/symfony/http-foundation/Response.php on line 449
+[Thu Nov 10 14:02:08 2022] 127.0.0.1:37870 Closing
+[Thu Nov 10 14:03:14 2022] 127.0.0.1:37872 Accepted
+[Thu Nov 10 14:03:14 2022] 127.0.0.1:37872 [500]: GET /
+[Thu Nov 10 14:03:14 2022] 127.0.0.1:37872 Closing
+[Thu Nov 10 14:03:22 2022] 127.0.0.1:37874 Accepted
+[Thu Nov 10 14:03:22 2022] 127.0.0.1:37874 [500]: GET /qwrwqrrwq
+[Thu Nov 10 14:03:22 2022] 127.0.0.1:37874 Closing
+[Thu Nov 10 14:03:25 2022] 127.0.0.1:37876 Accepted
+[Thu Nov 10 14:03:25 2022] 127.0.0.1:37876 [500]: GET /qwrwqrrwq
+[Thu Nov 10 14:03:25 2022] 127.0.0.1:37876 Closing
+[Thu Nov 10 14:05:27 2022] 127.0.0.1:37878 Accepted
+[Thu Nov 10 14:05:27 2022] 127.0.0.1:37878 [500]: GET /qwrwqrrwq
+[Thu Nov 10 14:05:27 2022] 127.0.0.1:37878 Closing
+[Thu Nov 10 14:05:34 2022] 127.0.0.1:37880 Accepted
+[Thu Nov 10 14:05:34 2022] 127.0.0.1:37880 [404]: GET /qwrwqrrwq
+[Thu Nov 10 14:05:34 2022] 127.0.0.1:37880 Closing
+[Thu Nov 10 14:06:16 2022] 127.0.0.1:37882 Accepted
+[Thu Nov 10 14:06:16 2022] 127.0.0.1:37882 [404]: GET /qwrwqrrwq
+[Thu Nov 10 14:06:16 2022] 127.0.0.1:37882 Closing
+[Thu Nov 10 14:06:17 2022] 127.0.0.1:37884 Accepted
+[Thu Nov 10 14:06:17 2022] 127.0.0.1:37884 [404]: GET /qwrwqrrwq
+[Thu Nov 10 14:06:17 2022] 127.0.0.1:37884 Closing
+[Thu Nov 10 14:06:17 2022] 127.0.0.1:37886 Accepted
+[Thu Nov 10 14:06:17 2022] 127.0.0.1:37886 [404]: GET /qwrwqrrwq
+[Thu Nov 10 14:06:17 2022] 127.0.0.1:37886 Closing
+[Thu Nov 10 14:06:19 2022] 127.0.0.1:37888 Accepted
+[Thu Nov 10 14:06:19 2022] 127.0.0.1:37888 [500]: GET /
+[Thu Nov 10 14:06:19 2022] 127.0.0.1:37888 Closing
+[Thu Nov 10 14:06:33 2022] 127.0.0.1:37890 Accepted
+[Thu Nov 10 14:06:33 2022] 127.0.0.1:37890 [500]: GET /
+[Thu Nov 10 14:06:33 2022] 127.0.0.1:37890 Closing
+[Thu Nov 10 14:07:08 2022] 127.0.0.1:37892 Accepted
+[Thu Nov 10 14:07:08 2022] 127.0.0.1:37892 [500]: GET /
+[Thu Nov 10 14:07:08 2022] 127.0.0.1:37892 Closing
+[Thu Nov 10 14:07:13 2022] 127.0.0.1:37894 Accepted
+[Thu Nov 10 14:07:13 2022] 127.0.0.1:37894 [500]: GET /
+[Thu Nov 10 14:07:13 2022] 127.0.0.1:37894 Closing
+[Thu Nov 10 14:07:32 2022] 127.0.0.1:37896 Accepted
+[Thu Nov 10 14:07:32 2022] 127.0.0.1:37896 [500]: GET /
+[Thu Nov 10 14:07:32 2022] 127.0.0.1:37896 Closing
+[Thu Nov 10 14:07:33 2022] 127.0.0.1:37898 Accepted
+[Thu Nov 10 14:07:33 2022] 127.0.0.1:37898 [500]: GET /
+[Thu Nov 10 14:07:33 2022] 127.0.0.1:37898 Closing
+[Thu Nov 10 14:07:33 2022] 127.0.0.1:37900 Accepted
+[Thu Nov 10 14:07:33 2022] 127.0.0.1:37900 [500]: GET /
+[Thu Nov 10 14:07:33 2022] 127.0.0.1:37900 Closing
+[Thu Nov 10 14:07:34 2022] 127.0.0.1:37902 Accepted
+[Thu Nov 10 14:07:34 2022] 127.0.0.1:37902 [500]: GET /
+[Thu Nov 10 14:07:34 2022] 127.0.0.1:37902 Closing
+[Thu Nov 10 14:07:38 2022] 127.0.0.1:37904 Accepted
+[Thu Nov 10 14:07:38 2022] 127.0.0.1:37904 [500]: GET /
+[Thu Nov 10 14:07:38 2022] 127.0.0.1:37904 Closing
+[Thu Nov 10 14:07:38 2022] 127.0.0.1:37906 Accepted
+[Thu Nov 10 14:07:38 2022] 127.0.0.1:37906 [500]: GET /
+[Thu Nov 10 14:07:38 2022] 127.0.0.1:37906 Closing
+[Thu Nov 10 14:07:38 2022] 127.0.0.1:37908 Accepted
+[Thu Nov 10 14:07:38 2022] 127.0.0.1:37908 [500]: GET /
+[Thu Nov 10 14:07:38 2022] 127.0.0.1:37908 Closing
+[Thu Nov 10 14:07:45 2022] 127.0.0.1:37910 Accepted
+[Thu Nov 10 14:07:45 2022] 127.0.0.1:37910 [400]: GET /
+[Thu Nov 10 14:07:45 2022] 127.0.0.1:37910 Closing
+[Thu Nov 10 14:07:56 2022] 127.0.0.1:37912 Accepted
+[Thu Nov 10 14:07:56 2022] 127.0.0.1:37912 [400]: GET /
+[Thu Nov 10 14:07:56 2022] 127.0.0.1:37912 Closing
+[Thu Nov 10 14:07:59 2022] 127.0.0.1:37916 Accepted
+[Thu Nov 10 14:07:59 2022] 127.0.0.1:37916 [200]: GET / - Uncaught ErrorException: Undefined variable $status in /home/ryan-ubuntu/dev/devbox/app/Exceptions/Handler.php:72
+Stack trace:
+#0 /home/ryan-ubuntu/dev/devbox/vendor/laravel/lumen-framework/src/Concerns/RegistersExceptionHandlers.php(47): Laravel\Lumen\Application->handleError(2, 'Undefined varia...', '/home/ryan-ubun...', 72)
+#1 /home/ryan-ubuntu/dev/devbox/app/Exceptions/Handler.php(72): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Undefined varia...', '/home/ryan-ubun...', 72)
+#2 /home/ryan-ubuntu/dev/devbox/vendor/laravel/lumen-framework/src/Concerns/RegistersExceptionHandlers.php(205): App\Exceptions\Handler->render(Object(Laravel\Lumen\Http\Request), Object(ErrorException))
+#3 /home/ryan-ubuntu/dev/devbox/vendor/laravel/lumen-framework/src/Concerns/RegistersExceptionHandlers.php(51): Laravel\Lumen\Application->handleException(Object(ErrorException))
+#4 [internal function]: Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(Object(ErrorException))
+#5 {main}
+  thrown in /home/ryan-ubuntu/dev/devbox/app/Exceptions/Handler.php on line 72
+[Thu Nov 10 14:07:59 2022] 127.0.0.1:37916 Closing
+[Thu Nov 10 14:08:31 2022] 127.0.0.1:37918 Accepted
+[Thu Nov 10 14:08:31 2022] 127.0.0.1:37918 [200]: GET / - Uncaught ErrorException: Undefined variable $status in /home/ryan-ubuntu/dev/devbox/app/Exceptions/Handler.php:72
+Stack trace:
+#0 /home/ryan-ubuntu/dev/devbox/vendor/laravel/lumen-framework/src/Concerns/RegistersExceptionHandlers.php(47): Laravel\Lumen\Application->handleError(2, 'Undefined varia...', '/home/ryan-ubun...', 72)
+#1 /home/ryan-ubuntu/dev/devbox/app/Exceptions/Handler.php(72): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Undefined varia...', '/home/ryan-ubun...', 72)
+#2 /home/ryan-ubuntu/dev/devbox/vendor/laravel/lumen-framework/src/Concerns/RegistersExceptionHandlers.php(205): App\Exceptions\Handler->render(Object(Laravel\Lumen\Http\Request), Object(ErrorException))
+#3 /home/ryan-ubuntu/dev/devbox/vendor/laravel/lumen-framework/src/Concerns/RegistersExceptionHandlers.php(51): Laravel\Lumen\Application->handleException(Object(ErrorException))
+#4 [internal function]: Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(Object(ErrorException))
+#5 {main}
+  thrown in /home/ryan-ubuntu/dev/devbox/app/Exceptions/Handler.php on line 72
+[Thu Nov 10 14:08:31 2022] 127.0.0.1:37918 Closing
+[Thu Nov 10 14:08:32 2022] 127.0.0.1:37920 Accepted
+[Thu Nov 10 14:08:32 2022] 127.0.0.1:37920 [200]: GET / - Uncaught ErrorException: Undefined variable $status in /home/ryan-ubuntu/dev/devbox/app/Exceptions/Handler.php:72
+Stack trace:
+#0 /home/ryan-ubuntu/dev/devbox/vendor/laravel/lumen-framework/src/Concerns/RegistersExceptionHandlers.php(47): Laravel\Lumen\Application->handleError(2, 'Undefined varia...', '/home/ryan-ubun...', 72)
+#1 /home/ryan-ubuntu/dev/devbox/app/Exceptions/Handler.php(72): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Undefined varia...', '/home/ryan-ubun...', 72)
+#2 /home/ryan-ubuntu/dev/devbox/vendor/laravel/lumen-framework/src/Concerns/RegistersExceptionHandlers.php(205): App\Exceptions\Handler->render(Object(Laravel\Lumen\Http\Request), Object(ErrorException))
+#3 /home/ryan-ubuntu/dev/devbox/vendor/laravel/lumen-framework/src/Concerns/RegistersExceptionHandlers.php(51): Laravel\Lumen\Application->handleException(Object(ErrorException))
+#4 [internal function]: Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(Object(ErrorException))
+#5 {main}
+  thrown in /home/ryan-ubuntu/dev/devbox/app/Exceptions/Handler.php on line 72
+[Thu Nov 10 14:08:32 2022] 127.0.0.1:37920 Closing
+[Thu Nov 10 14:09:49 2022] 127.0.0.1:37924 Accepted
+[Thu Nov 10 14:09:49 2022] 127.0.0.1:37924 [400]: GET /
+[Thu Nov 10 14:09:49 2022] 127.0.0.1:37924 Closing
+[Thu Nov 10 14:09:53 2022] 127.0.0.1:37926 Accepted
+[Thu Nov 10 14:09:53 2022] 127.0.0.1:37926 [200]: GET / - Uncaught ErrorException: Undefined variable $status in /home/ryan-ubuntu/dev/devbox/app/Exceptions/Handler.php:74
+Stack trace:
+#0 /home/ryan-ubuntu/dev/devbox/vendor/laravel/lumen-framework/src/Concerns/RegistersExceptionHandlers.php(47): Laravel\Lumen\Application->handleError(2, 'Undefined varia...', '/home/ryan-ubun...', 74)
+#1 /home/ryan-ubuntu/dev/devbox/app/Exceptions/Handler.php(74): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Undefined varia...', '/home/ryan-ubun...', 74)
+#2 /home/ryan-ubuntu/dev/devbox/vendor/laravel/lumen-framework/src/Concerns/RegistersExceptionHandlers.php(205): App\Exceptions\Handler->render(Object(Laravel\Lumen\Http\Request), Object(Error))
+#3 /home/ryan-ubuntu/dev/devbox/vendor/laravel/lumen-framework/src/Concerns/RegistersExceptionHandlers.php(51): Laravel\Lumen\Application->handleException(Object(Error))
+#4 [internal function]: Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(Object(Error))
+#5 {main}
+  thrown in /home/ryan-ubuntu/dev/devbox/app/Exceptions/Handler.php on line 74
+[Thu Nov 10 14:09:53 2022] 127.0.0.1:37926 Closing
+[Thu Nov 10 14:16:44 2022] 127.0.0.1:37928 Accepted
+[Thu Nov 10 14:16:44 2022] 127.0.0.1:37928 [400]: GET /
+[Thu Nov 10 14:16:44 2022] 127.0.0.1:37928 Closing
+[Thu Nov 10 14:18:04 2022] 127.0.0.1:37930 Accepted
+[Thu Nov 10 14:18:04 2022] 127.0.0.1:37930 [200]: GET / - syntax error, unexpected token "," in /home/ryan-ubuntu/dev/devbox/app/Exceptions/Handler.php on line 63
+[Thu Nov 10 14:18:04 2022] 127.0.0.1:37930 Closing
+[Thu Nov 10 14:18:15 2022] 127.0.0.1:37932 Accepted
+[Thu Nov 10 14:18:15 2022] 127.0.0.1:37932 [400]: GET /
+[Thu Nov 10 14:18:15 2022] 127.0.0.1:37932 Closing
+[Thu Nov 10 14:18:47 2022] 127.0.0.1:37934 Accepted
+[Thu Nov 10 14:18:47 2022] 127.0.0.1:37934 [400]: GET /
+[Thu Nov 10 14:18:47 2022] 127.0.0.1:37934 Closing
+[Thu Nov 10 14:18:57 2022] 127.0.0.1:37936 Accepted
+[Thu Nov 10 14:18:57 2022] 127.0.0.1:37936 [400]: GET /
+[Thu Nov 10 14:18:57 2022] 127.0.0.1:37936 Closing
+[Thu Nov 10 14:19:01 2022] 127.0.0.1:37938 Accepted
+[Thu Nov 10 14:19:01 2022] 127.0.0.1:37938 [400]: GET /
+[Thu Nov 10 14:19:01 2022] 127.0.0.1:37938 Closing
+[Thu Nov 10 14:19:27 2022] 127.0.0.1:37940 Accepted
+[Thu Nov 10 14:19:27 2022] 127.0.0.1:37940 [400]: GET /
+[Thu Nov 10 14:19:27 2022] 127.0.0.1:37940 Closing
+[Thu Nov 10 14:19:34 2022] 127.0.0.1:37942 Accepted
+[Thu Nov 10 14:19:34 2022] 127.0.0.1:37942 [400]: GET /
+[Thu Nov 10 14:19:34 2022] 127.0.0.1:37942 Closing
+[Thu Nov 10 14:21:21 2022] 127.0.0.1:37944 Accepted
+[Thu Nov 10 14:21:21 2022] 127.0.0.1:37944 [400]: GET /
+[Thu Nov 10 14:21:21 2022] 127.0.0.1:37944 Closing
+[Thu Nov 10 14:25:48 2022] 127.0.0.1:37946 Accepted
+[Thu Nov 10 14:25:48 2022] 127.0.0.1:37946 [401]: GET /
+[Thu Nov 10 14:25:48 2022] 127.0.0.1:37946 Closing
+[Thu Nov 10 14:27:01 2022] 127.0.0.1:37948 Accepted
+[Thu Nov 10 14:27:02 2022] 127.0.0.1:37948 [401]: GET /
+[Thu Nov 10 14:27:02 2022] 127.0.0.1:37948 Closing
+[Thu Nov 10 14:27:14 2022] 127.0.0.1:37950 Accepted
+[Thu Nov 10 14:27:14 2022] 127.0.0.1:37950 [419]: GET /
+[Thu Nov 10 14:27:14 2022] 127.0.0.1:37950 Closing
+[Thu Nov 10 14:28:04 2022] 127.0.0.1:37952 Accepted
+[Thu Nov 10 14:28:04 2022] 127.0.0.1:37952 [200]: GET / - syntax error, unexpected token ";", expecting ")" in /home/ryan-ubuntu/dev/devbox/app/Exceptions/Handler.php on line 81
+[Thu Nov 10 14:28:04 2022] 127.0.0.1:37952 Closing
+[Thu Nov 10 14:28:13 2022] 127.0.0.1:37954 Accepted
+[Thu Nov 10 14:28:13 2022] 127.0.0.1:37954 [200]: GET / - syntax error, unexpected token ";", expecting ")" in /home/ryan-ubuntu/dev/devbox/app/Exceptions/Handler.php on line 81
+[Thu Nov 10 14:28:13 2022] 127.0.0.1:37954 Closing
+[Thu Nov 10 14:28:21 2022] 127.0.0.1:37956 Accepted
+[Thu Nov 10 14:28:21 2022] 127.0.0.1:37956 [419]: GET /
+[Thu Nov 10 14:28:21 2022] 127.0.0.1:37956 Closing
+[Thu Nov 10 14:29:55 2022] 127.0.0.1:37958 Accepted
+[Thu Nov 10 14:29:55 2022] 127.0.0.1:37958 [404]: POST /api/auth/login/242
+[Thu Nov 10 14:29:55 2022] 127.0.0.1:37958 Closing
+[Thu Nov 10 14:30:05 2022] 127.0.0.1:37960 Accepted
+[Thu Nov 10 14:30:05 2022] 127.0.0.1:37960 [419]: GET /
+[Thu Nov 10 14:30:05 2022] 127.0.0.1:37960 Closing
+[Thu Nov 10 14:30:05 2022] 127.0.0.1:37962 Accepted
+[Thu Nov 10 14:30:05 2022] 127.0.0.1:37962 [419]: GET /
+[Thu Nov 10 14:30:05 2022] 127.0.0.1:37962 Closing
+[Thu Nov 10 14:30:05 2022] 127.0.0.1:37964 Accepted
+[Thu Nov 10 14:30:05 2022] 127.0.0.1:37964 [419]: GET /
+[Thu Nov 10 14:30:05 2022] 127.0.0.1:37964 Closing
+[Thu Nov 10 14:30:07 2022] 127.0.0.1:37966 Accepted
+[Thu Nov 10 14:30:07 2022] 127.0.0.1:37966 [404]: GET /wqqwqw
+[Thu Nov 10 14:30:07 2022] 127.0.0.1:37966 Closing
+[Thu Nov 10 14:30:32 2022] 127.0.0.1:37968 Accepted
+[Thu Nov 10 14:30:32 2022] 127.0.0.1:37968 [404]: GET /wqqwqw
+[Thu Nov 10 14:30:32 2022] 127.0.0.1:37968 Closing
+[Thu Nov 10 14:30:44 2022] 127.0.0.1:37970 Accepted
+[Thu Nov 10 14:30:44 2022] 127.0.0.1:37970 [404]: POST /api/auth/login/w211221
+[Thu Nov 10 14:30:44 2022] 127.0.0.1:37970 Closing
+[Thu Nov 10 14:31:18 2022] 127.0.0.1:37972 Accepted
+[Thu Nov 10 14:31:18 2022] 127.0.0.1:37972 [404]: GET /wqqwqw
+[Thu Nov 10 14:31:18 2022] 127.0.0.1:37972 Closing
+[Thu Nov 10 14:31:28 2022] 127.0.0.1:37974 Accepted
+[Thu Nov 10 14:31:28 2022] 127.0.0.1:37974 [404]: GET /wqqwqw
+[Thu Nov 10 14:31:28 2022] 127.0.0.1:37974 Closing
+[Thu Nov 10 14:31:39 2022] 127.0.0.1:37976 Accepted
+[Thu Nov 10 14:31:39 2022] 127.0.0.1:37976 [404]: POST /api/auth/login/zwsa
+[Thu Nov 10 14:31:39 2022] 127.0.0.1:37976 Closing
+[Thu Nov 10 14:33:20 2022] 127.0.0.1:37978 Accepted
+[Thu Nov 10 14:33:20 2022] 127.0.0.1:37978 [404]: GET /wqqwqw
+[Thu Nov 10 14:33:20 2022] 127.0.0.1:37978 Closing
+[Thu Nov 10 14:33:21 2022] 127.0.0.1:37980 Accepted
+[Thu Nov 10 14:33:21 2022] 127.0.0.1:37980 [404]: GET /wqqwqw
+[Thu Nov 10 14:33:21 2022] 127.0.0.1:37980 Closing
+[Thu Nov 10 14:33:22 2022] 127.0.0.1:37984 Accepted
+[Thu Nov 10 14:33:22 2022] 127.0.0.1:37984 [404]: GET /wqqwqw
+[Thu Nov 10 14:33:22 2022] 127.0.0.1:37984 Closing
+[Thu Nov 10 14:33:24 2022] 127.0.0.1:37986 Accepted
+[Thu Nov 10 14:33:24 2022] 127.0.0.1:37986 [419]: GET /
+[Thu Nov 10 14:33:24 2022] 127.0.0.1:37986 Closing
+[Thu Nov 10 14:33:34 2022] 127.0.0.1:37988 Accepted
+[Thu Nov 10 14:33:34 2022] 127.0.0.1:37988 [404]: POST /api/auth/login/2142141
+[Thu Nov 10 14:33:34 2022] 127.0.0.1:37988 Closing
+[Thu Nov 10 14:33:58 2022] 127.0.0.1:37990 Accepted
+[Thu Nov 10 14:33:58 2022] 127.0.0.1:37990 [404]: POST /api/auth/login/2142141
+[Thu Nov 10 14:33:58 2022] 127.0.0.1:37990 Closing
+[Thu Nov 10 14:34:00 2022] 127.0.0.1:37992 Accepted
+[Thu Nov 10 14:34:00 2022] 127.0.0.1:37992 [404]: POST /api/auth/login/2142141
+[Thu Nov 10 14:34:00 2022] 127.0.0.1:37992 Closing
+[Thu Nov 10 14:34:01 2022] 127.0.0.1:37994 Accepted
+[Thu Nov 10 14:34:01 2022] 127.0.0.1:37994 [404]: POST /api/auth/login/2142141
+[Thu Nov 10 14:34:01 2022] 127.0.0.1:37994 Closing
+[Thu Nov 10 14:34:04 2022] 127.0.0.1:37996 Accepted
+[Thu Nov 10 14:34:04 2022] 127.0.0.1:37996 [404]: POST /api/auth/login/2142141
+[Thu Nov 10 14:34:04 2022] 127.0.0.1:37996 Closing
+[Thu Nov 10 14:34:59 2022] 127.0.0.1:37998 Accepted
+[Thu Nov 10 14:34:59 2022] 127.0.0.1:37998 [404]: POST /api/auth/login/2142141
+[Thu Nov 10 14:34:59 2022] 127.0.0.1:37998 Closing
+[Thu Nov 10 14:35:40 2022] 127.0.0.1:38000 Accepted
+[Thu Nov 10 14:35:40 2022] 127.0.0.1:38000 [419]: GET /
+[Thu Nov 10 14:35:40 2022] 127.0.0.1:38000 Closing
+[Thu Nov 10 14:35:45 2022] 127.0.0.1:38002 Accepted
+[Thu Nov 10 14:35:45 2022] 127.0.0.1:38002 [404]: POST /api/auth/login/wrwq
+[Thu Nov 10 14:35:45 2022] 127.0.0.1:38002 Closing
+[Thu Nov 10 14:36:24 2022] 127.0.0.1:38004 Accepted
+[Thu Nov 10 14:36:24 2022] 127.0.0.1:38004 [404]: POST /api/auth/login/qwqw
+[Thu Nov 10 14:36:24 2022] 127.0.0.1:38004 Closing
+[Thu Nov 10 14:36:35 2022] 127.0.0.1:38006 Accepted
+[Thu Nov 10 14:36:35 2022] 127.0.0.1:38006 [404]: POST /api/auth/login/qwqw
+[Thu Nov 10 14:36:35 2022] 127.0.0.1:38006 Closing
+[Thu Nov 10 14:36:36 2022] 127.0.0.1:38008 Accepted
+[Thu Nov 10 14:36:36 2022] 127.0.0.1:38008 [404]: POST /api/auth/login/qwqw
+[Thu Nov 10 14:36:36 2022] 127.0.0.1:38008 Closing
+[Thu Nov 10 14:36:37 2022] 127.0.0.1:38010 Accepted
+[Thu Nov 10 14:36:37 2022] 127.0.0.1:38010 [404]: POST /api/auth/login/qwqw
+[Thu Nov 10 14:36:37 2022] 127.0.0.1:38010 Closing
+[Thu Nov 10 14:36:38 2022] 127.0.0.1:38012 Accepted
+[Thu Nov 10 14:36:38 2022] 127.0.0.1:38012 [404]: POST /api/auth/login/qwqw
+[Thu Nov 10 14:36:38 2022] 127.0.0.1:38012 Closing
+[Thu Nov 10 14:36:38 2022] 127.0.0.1:38014 Accepted
+[Thu Nov 10 14:36:38 2022] 127.0.0.1:38014 [404]: POST /api/auth/login/qwqw
+[Thu Nov 10 14:36:38 2022] 127.0.0.1:38014 Closing
+[Thu Nov 10 14:36:39 2022] 127.0.0.1:38016 Accepted
+[Thu Nov 10 14:36:39 2022] 127.0.0.1:38016 [404]: POST /api/auth/login/qwqw
+[Thu Nov 10 14:36:39 2022] 127.0.0.1:38016 Closing
+[Thu Nov 10 14:37:13 2022] 127.0.0.1:38018 Accepted
+[Thu Nov 10 14:37:13 2022] 127.0.0.1:38018 [404]: POST /api/auth/login/qwqw
+[Thu Nov 10 14:37:13 2022] 127.0.0.1:38018 Closing
+[Thu Nov 10 14:38:24 2022] 127.0.0.1:38020 Accepted
+[Thu Nov 10 14:38:24 2022] 127.0.0.1:38020 [200]: POST /api/auth/login/qwqw - Uncaught Error: Undefined constant "App\Exceptions\APP_DEBUG" in /home/ryan-ubuntu/dev/devbox/app/Exceptions/Handler.php:71
+Stack trace:
+#0 /home/ryan-ubuntu/dev/devbox/vendor/laravel/lumen-framework/src/Concerns/RegistersExceptionHandlers.php(205): App\Exceptions\Handler->render(Object(Laravel\Lumen\Http\Request), Object(Error))
+#1 /home/ryan-ubuntu/dev/devbox/vendor/laravel/lumen-framework/src/Concerns/RegistersExceptionHandlers.php(51): Laravel\Lumen\Application->handleException(Object(Error))
+#2 [internal function]: Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(Object(Error))
+#3 {main}
+  thrown in /home/ryan-ubuntu/dev/devbox/app/Exceptions/Handler.php on line 71
+[Thu Nov 10 14:38:24 2022] 127.0.0.1:38020 Closing
+[Thu Nov 10 14:38:28 2022] 127.0.0.1:38022 Accepted
+[Thu Nov 10 14:38:28 2022] 127.0.0.1:38022 [200]: GET /api/auth/login/qwqw - Uncaught Error: Undefined constant "App\Exceptions\APP_DEBUG" in /home/ryan-ubuntu/dev/devbox/app/Exceptions/Handler.php:71
+Stack trace:
+#0 /home/ryan-ubuntu/dev/devbox/vendor/laravel/lumen-framework/src/Concerns/RegistersExceptionHandlers.php(205): App\Exceptions\Handler->render(Object(Laravel\Lumen\Http\Request), Object(Error))
+#1 /home/ryan-ubuntu/dev/devbox/vendor/laravel/lumen-framework/src/Concerns/RegistersExceptionHandlers.php(51): Laravel\Lumen\Application->handleException(Object(Error))
+#2 [internal function]: Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(Object(Error))
+#3 {main}
+  thrown in /home/ryan-ubuntu/dev/devbox/app/Exceptions/Handler.php on line 71
+[Thu Nov 10 14:38:28 2022] 127.0.0.1:38022 Closing
+[Thu Nov 10 14:39:08 2022] 127.0.0.1:38024 Accepted
+[Thu Nov 10 14:39:08 2022] 127.0.0.1:38024 [404]: GET /api/auth/login/qwqw
+[Thu Nov 10 14:39:08 2022] 127.0.0.1:38024 Closing
+[Thu Nov 10 14:40:32 2022] 127.0.0.1:38026 Accepted
+[Thu Nov 10 14:40:32 2022] 127.0.0.1:38026 [404]: GET /api/auth/login/qwqw
+[Thu Nov 10 14:40:32 2022] 127.0.0.1:38026 Closing
+[Thu Nov 10 14:40:33 2022] 127.0.0.1:38028 Accepted
+[Thu Nov 10 14:40:33 2022] 127.0.0.1:38028 [404]: GET /api/auth/login/qwqw
+[Thu Nov 10 14:40:33 2022] 127.0.0.1:38028 Closing
+[Thu Nov 10 14:41:39 2022] 127.0.0.1:38030 Accepted
+[Thu Nov 10 14:41:39 2022] 127.0.0.1:38030 [500]: GET /api/auth/login/qwqw
+[Thu Nov 10 14:41:39 2022] 127.0.0.1:38030 Closing
+[Thu Nov 10 14:42:00 2022] 127.0.0.1:38032 Accepted
+[Thu Nov 10 14:42:00 2022] 127.0.0.1:38032 [500]: GET /api/auth/login/qwqw
+[Thu Nov 10 14:42:00 2022] 127.0.0.1:38032 Closing
+[Thu Nov 10 14:42:38 2022] 127.0.0.1:38034 Accepted
+[Thu Nov 10 14:42:38 2022] 127.0.0.1:38034 [200]: GET /api/auth/login/qwqw - Unclosed '(' on line 73 does not match ']' in /home/ryan-ubuntu/dev/devbox/app/Exceptions/Handler.php on line 80
+[Thu Nov 10 14:42:38 2022] 127.0.0.1:38034 Closing
+[Thu Nov 10 14:42:43 2022] 127.0.0.1:38036 Accepted
+[Thu Nov 10 14:42:43 2022] 127.0.0.1:38036 [200]: GET /api/auth/login/qwqw - Uncaught TypeError: end(): Argument #1 ($array) must be of type array, null given in /home/ryan-ubuntu/dev/devbox/app/Exceptions/Handler.php:79
+Stack trace:
+#0 /home/ryan-ubuntu/dev/devbox/app/Exceptions/Handler.php(79): end(NULL)
+#1 /home/ryan-ubuntu/dev/devbox/vendor/laravel/lumen-framework/src/Concerns/RegistersExceptionHandlers.php(205): App\Exceptions\Handler->render(Object(Laravel\Lumen\Http\Request), Object(TypeError))
+#2 /home/ryan-ubuntu/dev/devbox/vendor/laravel/lumen-framework/src/Concerns/RegistersExceptionHandlers.php(51): Laravel\Lumen\Application->handleException(Object(TypeError))
+#3 [internal function]: Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(Object(TypeError))
+#4 {main}
+  thrown in /home/ryan-ubuntu/dev/devbox/app/Exceptions/Handler.php on line 79
+[Thu Nov 10 14:42:43 2022] 127.0.0.1:38036 Closing
+[Thu Nov 10 14:43:03 2022] 127.0.0.1:38038 Accepted
+[Thu Nov 10 14:43:03 2022] 127.0.0.1:38038 [404]: GET /api/auth/login/qwqw
+[Thu Nov 10 14:43:03 2022] 127.0.0.1:38038 Closing
+[Thu Nov 10 14:43:25 2022] 127.0.0.1:38040 Accepted
+[Thu Nov 10 14:43:25 2022] 127.0.0.1:38040 [404]: GET /api/auth/login/qwqw
+[Thu Nov 10 14:43:25 2022] 127.0.0.1:38040 Closing
+[Thu Nov 10 14:44:10 2022] 127.0.0.1:38042 Accepted
+[Thu Nov 10 14:44:10 2022] 127.0.0.1:38042 [404]: GET /api/auth/login/qwqw
+[Thu Nov 10 14:44:10 2022] 127.0.0.1:38042 Closing
+[Thu Nov 10 14:44:17 2022] 127.0.0.1:38044 Accepted
+[Thu Nov 10 14:44:17 2022] 127.0.0.1:38044 [404]: GET /api/auth/login/qwqw
+[Thu Nov 10 14:44:17 2022] 127.0.0.1:38044 Closing
+[Thu Nov 10 14:44:23 2022] 127.0.0.1:38046 Accepted
+[Thu Nov 10 14:44:23 2022] 127.0.0.1:38046 [404]: GET /api/auth/login/qwqw
+[Thu Nov 10 14:44:23 2022] 127.0.0.1:38046 Closing
+[Thu Nov 10 14:45:13 2022] 127.0.0.1:38048 Accepted
+[Thu Nov 10 14:45:13 2022] 127.0.0.1:38048 [404]: GET /api/auth/login/qwqw
+[Thu Nov 10 14:45:13 2022] 127.0.0.1:38048 Closing
+[Thu Nov 10 14:45:31 2022] 127.0.0.1:38050 Accepted
+[Thu Nov 10 14:45:31 2022] 127.0.0.1:38050 [404]: POST /api/auth/login
+[Thu Nov 10 14:45:31 2022] 127.0.0.1:38050 Closing
+[Thu Nov 10 14:45:37 2022] 127.0.0.1:38052 Accepted
+[Thu Nov 10 14:45:37 2022] 127.0.0.1:38052 [404]: POST /api/auth/login
+[Thu Nov 10 14:45:37 2022] 127.0.0.1:38052 Closing
+[Thu Nov 10 14:46:46 2022] 127.0.0.1:38054 Accepted
+[Thu Nov 10 14:46:46 2022] 127.0.0.1:38054 [404]: POST /api/auth/login
+[Thu Nov 10 14:46:46 2022] 127.0.0.1:38054 Closing
+[Thu Nov 10 14:46:56 2022] 127.0.0.1:38056 Accepted
+[Thu Nov 10 14:46:56 2022] 127.0.0.1:38056 [404]: POST /api/auth/login
+[Thu Nov 10 14:46:56 2022] 127.0.0.1:38056 Closing
+[Thu Nov 10 14:47:00 2022] 127.0.0.1:38058 Accepted
+[Thu Nov 10 14:47:00 2022] 127.0.0.1:38058 [404]: POST /api/auth/login/2112
+[Thu Nov 10 14:47:00 2022] 127.0.0.1:38058 Closing
+[Thu Nov 10 14:47:05 2022] 127.0.0.1:38060 Accepted
+[Thu Nov 10 14:47:05 2022] 127.0.0.1:38060 [404]: POST /api/auth/login/2112
+[Thu Nov 10 14:47:05 2022] 127.0.0.1:38060 Closing
+[Thu Nov 10 14:47:43 2022] 127.0.0.1:38062 Accepted
+[Thu Nov 10 14:47:43 2022] 127.0.0.1:38062 [404]: POST /api/auth/login
+[Thu Nov 10 14:47:43 2022] 127.0.0.1:38062 Closing
+[Thu Nov 10 14:47:50 2022] 127.0.0.1:38064 Accepted
+[Thu Nov 10 14:47:50 2022] 127.0.0.1:38064 [404]: POST /api/auth/login/wqr
+[Thu Nov 10 14:47:50 2022] 127.0.0.1:38064 Closing
+[Thu Nov 10 14:48:07 2022] 127.0.0.1:38066 Accepted
+[Thu Nov 10 14:48:07 2022] 127.0.0.1:38066 [404]: POST /api/auth/login
+[Thu Nov 10 14:48:07 2022] 127.0.0.1:38066 Closing
+[Thu Nov 10 14:48:25 2022] 127.0.0.1:38068 Accepted
+[Thu Nov 10 14:48:25 2022] 127.0.0.1:38068 [404]: POST /api/auth/login/qwrw
+[Thu Nov 10 14:48:25 2022] 127.0.0.1:38068 Closing
+[Thu Nov 10 14:49:16 2022] 127.0.0.1:38070 Accepted
+[Thu Nov 10 14:49:16 2022] 127.0.0.1:38070 [404]: POST /api/auth/login/qwrw
+[Thu Nov 10 14:49:16 2022] 127.0.0.1:38070 Closing
+[Thu Nov 10 14:49:20 2022] 127.0.0.1:38072 Accepted
+[Thu Nov 10 14:49:20 2022] 127.0.0.1:38072 [404]: POST /api/auth/login
+[Thu Nov 10 14:49:20 2022] 127.0.0.1:38072 Closing
+[Thu Nov 10 14:49:23 2022] 127.0.0.1:38074 Accepted
+[Thu Nov 10 14:49:23 2022] 127.0.0.1:38074 [404]: POST /api/auth/login
+[Thu Nov 10 14:49:23 2022] 127.0.0.1:38074 Closing
+[Thu Nov 10 14:50:19 2022] 127.0.0.1:38076 Accepted
+[Thu Nov 10 14:50:19 2022] 127.0.0.1:38076 [404]: POST /api/auth/login
+[Thu Nov 10 14:50:19 2022] 127.0.0.1:38076 Closing
+[Thu Nov 10 14:50:41 2022] 127.0.0.1:38078 Accepted
+[Thu Nov 10 14:50:41 2022] 127.0.0.1:38078 [404]: POST /api/auth/login/wq
+[Thu Nov 10 14:50:41 2022] 127.0.0.1:38078 Closing
+[Thu Nov 10 14:53:27 2022] 127.0.0.1:38080 Accepted
+[Thu Nov 10 14:53:27 2022] 127.0.0.1:38080 [404]: POST /api/auth/login
+[Thu Nov 10 14:53:27 2022] 127.0.0.1:38080 Closing
+[Thu Nov 10 14:53:56 2022] 127.0.0.1:38082 Accepted
+[Thu Nov 10 14:53:56 2022] 127.0.0.1:38082 [404]: POST /api/auth/login/ww
+[Thu Nov 10 14:53:56 2022] 127.0.0.1:38082 Closing
+[Thu Nov 10 14:54:03 2022] 127.0.0.1:38084 Accepted
+[Thu Nov 10 14:54:03 2022] 127.0.0.1:38084 [200]: GET /api/commando
+[Thu Nov 10 14:54:03 2022] 127.0.0.1:38084 Closing
+[Thu Nov 10 14:54:03 2022] 127.0.0.1:38086 Accepted
+[Thu Nov 10 14:54:03 2022] 127.0.0.1:38086 [200]: GET /api/commando
+[Thu Nov 10 14:54:03 2022] 127.0.0.1:38086 Closing
+[Thu Nov 10 14:54:11 2022] 127.0.0.1:38088 Accepted
+[Thu Nov 10 14:54:11 2022] 127.0.0.1:38088 [404]: POST /api/auth/login/qwqwqw
+[Thu Nov 10 14:54:11 2022] 127.0.0.1:38088 Closing
+[Thu Nov 10 14:54:14 2022] 127.0.0.1:38090 Accepted
+[Thu Nov 10 14:54:14 2022] 127.0.0.1:38090 [404]: GET /api/auth/login/qwqwqw
+[Thu Nov 10 14:54:14 2022] 127.0.0.1:38090 Closing
+[Thu Nov 10 14:54:21 2022] 127.0.0.1:38092 Accepted
+[Thu Nov 10 14:54:21 2022] 127.0.0.1:38092 [404]: POST /api/auth/login/qwqwqw
+[Thu Nov 10 14:54:21 2022] 127.0.0.1:38092 Closing
+[Thu Nov 10 14:54:54 2022] 127.0.0.1:38094 Accepted
+[Thu Nov 10 14:54:54 2022] 127.0.0.1:38094 [404]: POST /api/auth/login/qwqwqw
+[Thu Nov 10 14:54:54 2022] 127.0.0.1:38094 Closing
+[Thu Nov 10 14:54:57 2022] 127.0.0.1:38096 Accepted
+[Thu Nov 10 14:54:57 2022] 127.0.0.1:38096 [404]: GET /api/auth/login/qwqwqw
+[Thu Nov 10 14:54:57 2022] 127.0.0.1:38096 Closing
+[Thu Nov 10 14:54:58 2022] 127.0.0.1:38098 Accepted
+[Thu Nov 10 14:54:58 2022] 127.0.0.1:38098 [404]: GET /api/auth/login/qwqwqw
+[Thu Nov 10 14:54:58 2022] 127.0.0.1:38098 Closing
+[Thu Nov 10 14:55:13 2022] 127.0.0.1:38100 Accepted
+[Thu Nov 10 14:55:13 2022] 127.0.0.1:38100 [200]: GET /api/auth/login/qwqwqw - syntax error, unexpected token "=" in /home/ryan-ubuntu/dev/devbox/app/Exceptions/Handler.php on line 72
+[Thu Nov 10 14:55:13 2022] 127.0.0.1:38100 Closing
+[Thu Nov 10 14:55:27 2022] 127.0.0.1:38102 Accepted
+[Thu Nov 10 14:55:27 2022] 127.0.0.1:38102 [404]: GET /api/auth/login/qwqwqw
+[Thu Nov 10 14:55:27 2022] 127.0.0.1:38102 Closing
+[Thu Nov 10 14:55:29 2022] 127.0.0.1:38104 Accepted
+[Thu Nov 10 14:55:29 2022] 127.0.0.1:38104 [404]: POST /api/auth/login/qwqwqw
+[Thu Nov 10 14:55:29 2022] 127.0.0.1:38104 Closing
+[Thu Nov 10 14:55:44 2022] 127.0.0.1:38106 Accepted
+[Thu Nov 10 14:55:44 2022] 127.0.0.1:38106 [404]: GET /api/auth/login/qwqwqw
+[Thu Nov 10 14:55:44 2022] 127.0.0.1:38106 Closing
+[Thu Nov 10 14:55:45 2022] 127.0.0.1:38110 Accepted
+[Thu Nov 10 14:55:45 2022] 127.0.0.1:38110 [404]: POST /api/auth/login/qwqwqw
+[Thu Nov 10 14:55:45 2022] 127.0.0.1:38110 Closing
+[Thu Nov 10 14:55:46 2022] 127.0.0.1:38112 Accepted
+[Thu Nov 10 14:55:46 2022] 127.0.0.1:38112 [404]: POST /api/auth/login/qwqwqw
+[Thu Nov 10 14:55:46 2022] 127.0.0.1:38112 Closing
+[Thu Nov 10 14:55:48 2022] 127.0.0.1:38114 Accepted
+[Thu Nov 10 14:55:48 2022] 127.0.0.1:38114 [404]: POST /api/auth/login/qwqwqw
+[Thu Nov 10 14:55:48 2022] 127.0.0.1:38114 Closing
+[Thu Nov 10 14:57:21 2022] 127.0.0.1:38116 Accepted
+[Thu Nov 10 14:57:21 2022] 127.0.0.1:38116 [404]: POST /api/auth/login
+[Thu Nov 10 14:57:21 2022] 127.0.0.1:38116 Closing
+[Thu Nov 10 14:57:31 2022] 127.0.0.1:38118 Accepted
+[Thu Nov 10 14:57:31 2022] 127.0.0.1:38118 [404]: POST /api/auth/login
+[Thu Nov 10 14:57:31 2022] 127.0.0.1:38118 Closing
+[Thu Nov 10 14:58:02 2022] 127.0.0.1:38120 Accepted
+[Thu Nov 10 14:58:02 2022] 127.0.0.1:38120 [404]: POST /api/auth/login
+[Thu Nov 10 14:58:02 2022] 127.0.0.1:38120 Closing
+[Thu Nov 10 14:58:07 2022] 127.0.0.1:38122 Accepted
+[Thu Nov 10 14:58:07 2022] 127.0.0.1:38122 [404]: POST /api/auth/login
+[Thu Nov 10 14:58:07 2022] 127.0.0.1:38122 Closing
+[Thu Nov 10 14:58:24 2022] 127.0.0.1:38124 Accepted
+[Thu Nov 10 14:58:24 2022] 127.0.0.1:38124 [404]: POST /api/auth/login
+[Thu Nov 10 14:58:24 2022] 127.0.0.1:38124 Closing
+[Thu Nov 10 14:58:52 2022] 127.0.0.1:38128 Accepted
+[Thu Nov 10 14:58:52 2022] 127.0.0.1:38128 [404]: POST /api/auth/login
+[Thu Nov 10 14:58:52 2022] 127.0.0.1:38128 Closing
+[Thu Nov 10 14:58:53 2022] 127.0.0.1:38130 Accepted
+[Thu Nov 10 14:58:53 2022] 127.0.0.1:38130 [404]: POST /api/auth/login
+[Thu Nov 10 14:58:53 2022] 127.0.0.1:38130 Closing
+[Thu Nov 10 14:59:02 2022] 127.0.0.1:38132 Accepted
+[Thu Nov 10 14:59:02 2022] 127.0.0.1:38132 [404]: POST /api/auth/login
+[Thu Nov 10 14:59:02 2022] 127.0.0.1:38132 Closing
+[Thu Nov 10 14:59:31 2022] 127.0.0.1:38134 Accepted
+[Thu Nov 10 14:59:31 2022] 127.0.0.1:38134 [404]: POST /api/auth/login
+[Thu Nov 10 14:59:31 2022] 127.0.0.1:38134 Closing
+[Thu Nov 10 15:00:34 2022] 127.0.0.1:38136 Accepted
+[Thu Nov 10 15:00:34 2022] 127.0.0.1:38136 [404]: POST /api/auth/login
+[Thu Nov 10 15:00:34 2022] 127.0.0.1:38136 Closing
+[Thu Nov 10 15:00:48 2022] 127.0.0.1:38138 Accepted
+[Thu Nov 10 15:00:48 2022] 127.0.0.1:38138 [404]: POST /api/auth/login
+[Thu Nov 10 15:00:48 2022] 127.0.0.1:38138 Closing
+[Thu Nov 10 15:01:52 2022] 127.0.0.1:38142 Accepted
+[Thu Nov 10 15:01:52 2022] 127.0.0.1:38142 [404]: POST /api/auth/login
+[Thu Nov 10 15:01:52 2022] 127.0.0.1:38142 Closing
+[Thu Nov 10 15:03:05 2022] 127.0.0.1:38146 Accepted
+[Thu Nov 10 15:03:05 2022] 127.0.0.1:38146 [404]: POST /api/auth/login
+[Thu Nov 10 15:03:05 2022] 127.0.0.1:38146 Closing
+[Thu Nov 10 15:04:25 2022] 127.0.0.1:38148 Accepted
+[Thu Nov 10 15:04:25 2022] 127.0.0.1:38148 [404]: POST /api/auth/login/332
+[Thu Nov 10 15:04:25 2022] 127.0.0.1:38148 Closing
+[Thu Nov 10 15:04:28 2022] 127.0.0.1:38150 Accepted
+[Thu Nov 10 15:04:28 2022] 127.0.0.1:38150 [404]: GET /api/auth/login/332
+[Thu Nov 10 15:04:28 2022] 127.0.0.1:38150 Closing
+[Thu Nov 10 15:10:47 2022] 127.0.0.1:38152 Accepted
+[Thu Nov 10 15:10:47 2022] 127.0.0.1:38152 [419]: GET /
+[Thu Nov 10 15:10:47 2022] 127.0.0.1:38152 Closing
+[Thu Nov 10 15:11:18 2022] 127.0.0.1:38156 Accepted
+[Thu Nov 10 15:11:18 2022] 127.0.0.1:38156 [404]: GET /api/auth/login/332
+[Thu Nov 10 15:11:18 2022] 127.0.0.1:38156 Closing
+[Thu Nov 10 15:11:18 2022] 127.0.0.1:38158 Accepted
+[Thu Nov 10 15:11:18 2022] 127.0.0.1:38158 [404]: GET /api/auth/login/332
+[Thu Nov 10 15:11:18 2022] 127.0.0.1:38158 Closing
+[Thu Nov 10 15:13:13 2022] 127.0.0.1:38160 Accepted
+[Thu Nov 10 15:13:13 2022] 127.0.0.1:38160 [404]: POST /api/auth/login
+[Thu Nov 10 15:13:13 2022] 127.0.0.1:38160 Closing
+[Thu Nov 10 15:14:16 2022] 127.0.0.1:38162 Accepted
+[Thu Nov 10 15:14:16 2022] 127.0.0.1:38162 [404]: POST /api/auth/login
+[Thu Nov 10 15:14:16 2022] 127.0.0.1:38162 Closing
+[Thu Nov 10 15:14:22 2022] 127.0.0.1:38164 Accepted
+[Thu Nov 10 15:14:22 2022] 127.0.0.1:38164 [404]: POST /api/auth/login
+[Thu Nov 10 15:14:22 2022] 127.0.0.1:38164 Closing
+[Thu Nov 10 15:15:29 2022] 127.0.0.1:38166 Accepted
+[Thu Nov 10 15:15:29 2022] 127.0.0.1:38166 [404]: POST /api/auth/login
+[Thu Nov 10 15:15:29 2022] 127.0.0.1:38166 Closing
+[Thu Nov 10 15:18:45 2022] 127.0.0.1:38168 Accepted
+[Thu Nov 10 15:18:45 2022] 127.0.0.1:38168 [404]: GET /api/auth/login/332
+[Thu Nov 10 15:18:45 2022] 127.0.0.1:38168 Closing
+[Thu Nov 10 15:21:09 2022] 127.0.0.1:38170 Accepted
+[Thu Nov 10 15:21:09 2022] 127.0.0.1:38170 [404]: POST /api/auth/login
+[Thu Nov 10 15:21:09 2022] 127.0.0.1:38170 Closing
+[Thu Nov 10 15:21:47 2022] 127.0.0.1:38172 Accepted
+[Thu Nov 10 15:21:47 2022] 127.0.0.1:38172 [404]: POST /api/auth/login/1241221
+[Thu Nov 10 15:21:47 2022] 127.0.0.1:38172 Closing
+[Thu Nov 10 15:22:27 2022] 127.0.0.1:38174 Accepted
+[Thu Nov 10 15:22:27 2022] 127.0.0.1:38174 [405]: POST /api/auth/login/1241221
+[Thu Nov 10 15:22:27 2022] 127.0.0.1:38174 Closing
+[Thu Nov 10 15:22:37 2022] 127.0.0.1:38176 Accepted
+[Thu Nov 10 15:22:37 2022] 127.0.0.1:38176 [401]: POST /api/auth/login/1241221
+[Thu Nov 10 15:22:37 2022] 127.0.0.1:38176 Closing
+[Thu Nov 10 15:23:08 2022] 127.0.0.1:38180 Accepted
+[Thu Nov 10 15:23:08 2022] 127.0.0.1:38180 [401]: POST /api/auth/login/1241221
+[Thu Nov 10 15:23:08 2022] 127.0.0.1:38180 Closing
+[Thu Nov 10 15:23:15 2022] 127.0.0.1:38182 Accepted
+[Thu Nov 10 15:23:15 2022] 127.0.0.1:38182 [500]: POST /api/auth/login/1241221
+[Thu Nov 10 15:23:15 2022] 127.0.0.1:38182 Closing
+[Thu Nov 10 15:23:16 2022] 127.0.0.1:38184 Accepted
+[Thu Nov 10 15:23:16 2022] 127.0.0.1:38184 [405]: GET /api/auth/login/1241221
+[Thu Nov 10 15:23:16 2022] 127.0.0.1:38184 Closing
+[Thu Nov 10 15:26:40 2022] 127.0.0.1:38186 Accepted
+[Thu Nov 10 15:26:40 2022] 127.0.0.1:38186 [401]: POST /api/auth/login/1241221
+[Thu Nov 10 15:26:40 2022] 127.0.0.1:38186 Closing
+[Thu Nov 10 15:26:48 2022] 127.0.0.1:38190 Accepted
+[Thu Nov 10 15:26:48 2022] 127.0.0.1:38190 [500]: POST /api/auth/login/1241221
+[Thu Nov 10 15:26:48 2022] 127.0.0.1:38190 Closing
+[Thu Nov 10 15:26:52 2022] 127.0.0.1:38192 Accepted
+[Thu Nov 10 15:26:52 2022] 127.0.0.1:38192 [405]: GET /api/auth/login/1241221
+[Thu Nov 10 15:26:52 2022] 127.0.0.1:38192 Closing
+[Thu Nov 10 15:27:20 2022] 127.0.0.1:38194 Accepted
+[Thu Nov 10 15:27:20 2022] 127.0.0.1:38194 [500]: POST /api/auth/login/1241221
+[Thu Nov 10 15:27:20 2022] 127.0.0.1:38194 Closing
+[Thu Nov 10 15:27:58 2022] 127.0.0.1:38196 Accepted
+[Thu Nov 10 15:27:58 2022] 127.0.0.1:38196 [500]: POST /api/auth/login/1241221
+[Thu Nov 10 15:27:58 2022] 127.0.0.1:38196 Closing
+[Thu Nov 10 15:28:03 2022] 127.0.0.1:38198 Accepted
+[Thu Nov 10 15:28:03 2022] 127.0.0.1:38198 [500]: POST /api/auth/login/1241221
+[Thu Nov 10 15:28:03 2022] 127.0.0.1:38198 Closing
+[Thu Nov 10 15:28:41 2022] 127.0.0.1:38200 Accepted
+[Thu Nov 10 15:28:42 2022] 127.0.0.1:38200 [500]: POST /api/auth/login/1241221
+[Thu Nov 10 15:28:42 2022] 127.0.0.1:38200 Closing
+[Thu Nov 10 15:28:52 2022] 127.0.0.1:38202 Accepted
+[Thu Nov 10 15:28:52 2022] 127.0.0.1:38202 [404]: POST /api/auth/login/1241221
+[Thu Nov 10 15:28:52 2022] 127.0.0.1:38202 Closing
+[Thu Nov 10 15:29:12 2022] 127.0.0.1:38204 Accepted
+[Thu Nov 10 15:29:12 2022] 127.0.0.1:38204 [500]: POST /api/auth/login/1241221
+[Thu Nov 10 15:29:12 2022] 127.0.0.1:38204 Closing
+[Thu Nov 10 15:29:33 2022] 127.0.0.1:38206 Accepted
+[Thu Nov 10 15:29:33 2022] 127.0.0.1:38206 [500]: POST /api/auth/login/1241221
+[Thu Nov 10 15:29:33 2022] 127.0.0.1:38206 Closing
+[Thu Nov 10 15:29:46 2022] 127.0.0.1:38208 Accepted
+[Thu Nov 10 15:29:46 2022] 127.0.0.1:38208 [500]: POST /api/auth/login/1241221
+[Thu Nov 10 15:29:46 2022] 127.0.0.1:38208 Closing
+[Thu Nov 10 15:29:59 2022] 127.0.0.1:38210 Accepted
+[Thu Nov 10 15:29:59 2022] 127.0.0.1:38210 [500]: POST /api/auth/login/1241221
+[Thu Nov 10 15:29:59 2022] 127.0.0.1:38210 Closing
+[Thu Nov 10 15:30:09 2022] 127.0.0.1:38212 Accepted
+[Thu Nov 10 15:30:09 2022] 127.0.0.1:38212 [500]: POST /api/auth/login/1241221
+[Thu Nov 10 15:30:09 2022] 127.0.0.1:38212 Closing
+[Thu Nov 10 15:30:16 2022] 127.0.0.1:38214 Accepted
+[Thu Nov 10 15:30:16 2022] 127.0.0.1:38214 [405]: GET /api/auth/login/1241221
+[Thu Nov 10 15:30:16 2022] 127.0.0.1:38214 Closing
+[Thu Nov 10 15:30:41 2022] 127.0.0.1:38216 Accepted
+[Thu Nov 10 15:30:41 2022] 127.0.0.1:38216 [500]: POST /api/auth/login/1241221
+[Thu Nov 10 15:30:41 2022] 127.0.0.1:38216 Closing
+[Thu Nov 10 15:30:50 2022] 127.0.0.1:38218 Accepted
+[Thu Nov 10 15:30:50 2022] 127.0.0.1:38218 [500]: POST /api/auth/login/1241221
+[Thu Nov 10 15:30:50 2022] 127.0.0.1:38218 Closing
+[Thu Nov 10 15:31:23 2022] 127.0.0.1:38220 Accepted
+[Thu Nov 10 15:31:23 2022] 127.0.0.1:38220 [500]: POST /api/auth/login/1241221
+[Thu Nov 10 15:31:23 2022] 127.0.0.1:38220 Closing
+[Thu Nov 10 15:31:56 2022] 127.0.0.1:38224 Accepted
+[Thu Nov 10 15:31:56 2022] 127.0.0.1:38224 [500]: POST /api/auth/login/1241221
+[Thu Nov 10 15:31:56 2022] 127.0.0.1:38224 Closing
+[Thu Nov 10 15:32:00 2022] 127.0.0.1:38226 Accepted
+[Thu Nov 10 15:32:00 2022] 127.0.0.1:38226 [500]: POST /api/auth/login/1241221
+[Thu Nov 10 15:32:00 2022] 127.0.0.1:38226 Closing
+[Thu Nov 10 15:32:02 2022] 127.0.0.1:38230 Accepted
+[Thu Nov 10 15:32:02 2022] 127.0.0.1:38230 [405]: GET /api/auth/login/1241221
+[Thu Nov 10 15:32:02 2022] 127.0.0.1:38230 Closing
+[Thu Nov 10 15:32:17 2022] 127.0.0.1:38232 Accepted
+[Thu Nov 10 15:32:17 2022] 127.0.0.1:38232 [500]: POST /api/auth/login/1241221
+[Thu Nov 10 15:32:17 2022] 127.0.0.1:38232 Closing
+[Thu Nov 10 15:32:43 2022] 127.0.0.1:38234 Accepted
+[Thu Nov 10 15:32:43 2022] 127.0.0.1:38234 [500]: POST /api/auth/login/1241221
+[Thu Nov 10 15:32:43 2022] 127.0.0.1:38234 Closing
+[Thu Nov 10 15:33:01 2022] 127.0.0.1:38236 Accepted
+[Thu Nov 10 15:33:01 2022] 127.0.0.1:38236 [500]: POST /api/auth/login/1241221
+[Thu Nov 10 15:33:01 2022] 127.0.0.1:38236 Closing
+[Thu Nov 10 15:34:13 2022] 127.0.0.1:38238 Accepted
+[Thu Nov 10 15:34:13 2022] 127.0.0.1:38238 [500]: POST /api/auth/login/1241221
+[Thu Nov 10 15:34:13 2022] 127.0.0.1:38238 Closing
+[Thu Nov 10 15:34:17 2022] 127.0.0.1:38240 Accepted
+[Thu Nov 10 15:34:17 2022] 127.0.0.1:38240 [500]: POST /api/auth/login/1241221
+[Thu Nov 10 15:34:17 2022] 127.0.0.1:38240 Closing
+[Thu Nov 10 15:34:48 2022] 127.0.0.1:38242 Accepted
+[Thu Nov 10 15:34:48 2022] 127.0.0.1:38242 [200]: POST /api/auth/login/1241221
+[Thu Nov 10 15:34:48 2022] 127.0.0.1:38242 Closing
+[Thu Nov 10 15:34:50 2022] 127.0.0.1:38244 Accepted
+[Thu Nov 10 15:34:50 2022] 127.0.0.1:38246 Accepted
+[Thu Nov 10 15:34:50 2022] 127.0.0.1:38244 [200]: GET /api/commando/undefined
+[Thu Nov 10 15:34:50 2022] 127.0.0.1:38244 Closing
+[Thu Nov 10 15:34:50 2022] 127.0.0.1:38246 [200]: GET /api/commando/undefined
+[Thu Nov 10 15:34:50 2022] 127.0.0.1:38246 Closing
+[Thu Nov 10 15:35:36 2022] 127.0.0.1:38248 Accepted
+[Thu Nov 10 15:35:36 2022] 127.0.0.1:38248 [404]: POST /api/auth/login
+[Thu Nov 10 15:35:36 2022] 127.0.0.1:38248 Closing
+[Thu Nov 10 15:35:46 2022] 127.0.0.1:38250 Accepted
+[Thu Nov 10 15:35:46 2022] 127.0.0.1:38250 [200]: POST /api/auth/login/%20cvfb
+[Thu Nov 10 15:35:46 2022] 127.0.0.1:38250 Closing
+[Thu Nov 10 15:35:47 2022] 127.0.0.1:38252 Accepted
+[Thu Nov 10 15:35:47 2022] 127.0.0.1:38256 Accepted
+[Thu Nov 10 15:35:47 2022] 127.0.0.1:38252 [200]: GET /api/commando/undefined
+[Thu Nov 10 15:35:47 2022] 127.0.0.1:38252 Closing
+[Thu Nov 10 15:35:48 2022] 127.0.0.1:38256 [200]: GET /api/commando/undefined
+[Thu Nov 10 15:35:48 2022] 127.0.0.1:38256 Closing
+[Thu Nov 10 15:36:04 2022] 127.0.0.1:38258 Accepted
+[Thu Nov 10 15:36:04 2022] 127.0.0.1:38260 Accepted
+[Thu Nov 10 15:36:10 2022] 127.0.0.1:38262 Accepted
+[Thu Nov 10 15:36:10 2022] 127.0.0.1:38262 [200]: POST /api/auth/login/gnddg
+[Thu Nov 10 15:36:10 2022] 127.0.0.1:38262 Closing
+[Thu Nov 10 15:36:11 2022] 127.0.0.1:38266 Accepted
+[Thu Nov 10 15:36:11 2022] 127.0.0.1:38266 [200]: GET /api/commando/undefined
+[Thu Nov 10 15:36:11 2022] 127.0.0.1:38266 Closing
+[Thu Nov 10 15:36:11 2022] 127.0.0.1:38268 Accepted
+[Thu Nov 10 15:36:11 2022] 127.0.0.1:38268 [200]: GET /api/commando/undefined
+[Thu Nov 10 15:36:11 2022] 127.0.0.1:38268 Closing
+[Thu Nov 10 15:36:34 2022] 127.0.0.1:38258 Closed without sending a request; it was probably just an unused speculative preconnection
+[Thu Nov 10 15:36:34 2022] 127.0.0.1:38258 Closing
+[Thu Nov 10 15:36:34 2022] 127.0.0.1:38260 Closed without sending a request; it was probably just an unused speculative preconnection
+[Thu Nov 10 15:36:34 2022] 127.0.0.1:38260 Closing
+[Thu Nov 10 15:47:47 2022] 127.0.0.1:38270 Accepted
+[Thu Nov 10 15:47:47 2022] 127.0.0.1:38270 [405]: GET /api/auth/login/332
+[Thu Nov 10 15:47:47 2022] 127.0.0.1:38270 Closing
+[Thu Nov 10 15:48:40 2022] 127.0.0.1:38272 Accepted
+[Thu Nov 10 15:48:40 2022] 127.0.0.1:38272 [405]: GET /api/auth/login/332
+[Thu Nov 10 15:48:40 2022] 127.0.0.1:38272 Closing
+[Thu Nov 10 15:48:45 2022] 127.0.0.1:38274 Accepted
+[Thu Nov 10 15:48:45 2022] 127.0.0.1:38274 [405]: GET /api/auth/login/332
+[Thu Nov 10 15:48:45 2022] 127.0.0.1:38274 Closing
+[Thu Nov 10 15:48:45 2022] 127.0.0.1:38276 Accepted
+[Thu Nov 10 15:48:45 2022] 127.0.0.1:38276 [405]: GET /api/auth/login/332
+[Thu Nov 10 15:48:45 2022] 127.0.0.1:38276 Closing
+[Thu Nov 10 15:48:46 2022] 127.0.0.1:38278 Accepted
+[Thu Nov 10 15:48:46 2022] 127.0.0.1:38278 [405]: GET /api/auth/login/332
+[Thu Nov 10 15:48:46 2022] 127.0.0.1:38278 Closing
+[Thu Nov 10 15:48:49 2022] 127.0.0.1:38280 Accepted
+[Thu Nov 10 15:48:49 2022] 127.0.0.1:38280 [405]: GET /api/auth/login/1241221
+[Thu Nov 10 15:48:49 2022] 127.0.0.1:38280 Closing
+[Thu Nov 10 15:48:55 2022] 127.0.0.1:38282 Accepted
+[Thu Nov 10 15:48:55 2022] 127.0.0.1:38282 [200]: GET /api/commando/undefined
+[Thu Nov 10 15:48:55 2022] 127.0.0.1:38282 Closing
+[Thu Nov 10 15:48:55 2022] 127.0.0.1:38284 Accepted
+[Thu Nov 10 15:48:55 2022] 127.0.0.1:38284 [200]: GET /api/commando/undefined
+[Thu Nov 10 15:48:55 2022] 127.0.0.1:38284 Closing
+[Thu Nov 10 15:54:29 2022] PHP 8.1.9 Development Server (http://127.0.0.1:1234) started
+[Thu Nov 10 15:54:31 2022] PHP 8.1.9 Development Server (http://127.0.0.1:1234) started
+[Thu Nov 10 15:54:33 2022] 127.0.0.1:38300 Accepted
+[Thu Nov 10 15:54:33 2022] 127.0.0.1:38300 [404]: GET /register
+[Thu Nov 10 15:54:33 2022] 127.0.0.1:38300 Closing
+[Thu Nov 10 15:54:33 2022] 127.0.0.1:38302 Accepted
+[Thu Nov 10 15:54:33 2022] 127.0.0.1:38302 [404]: GET /register
+[Thu Nov 10 15:54:33 2022] 127.0.0.1:38302 Closing
+[Thu Nov 10 15:54:40 2022] 127.0.0.1:38304 Accepted
+[Thu Nov 10 15:54:40 2022] 127.0.0.1:38304 [405]: GET /api/register
+[Thu Nov 10 15:54:40 2022] 127.0.0.1:38304 Closing
+[Thu Nov 10 15:57:32 2022] 127.0.0.1:38306 Accepted
+[Thu Nov 10 15:57:32 2022] 127.0.0.1:38306 [405]: GET /api/register
+[Thu Nov 10 15:57:32 2022] 127.0.0.1:38306 Closing
+[Thu Nov 10 15:57:35 2022] 127.0.0.1:38308 Accepted
+[Thu Nov 10 15:57:35 2022] 127.0.0.1:38308 [405]: GET /api/login
+[Thu Nov 10 15:57:35 2022] 127.0.0.1:38308 Closing
+[Thu Nov 10 15:57:39 2022] 127.0.0.1:38310 Accepted
+[Thu Nov 10 15:57:39 2022] 127.0.0.1:38310 [404]: GET /login
+[Thu Nov 10 15:57:39 2022] 127.0.0.1:38310 Closing
+[Thu Nov 10 15:57:51 2022] 127.0.0.1:38312 Accepted
+[Thu Nov 10 15:57:51 2022] 127.0.0.1:38312 [500]: GET /api/login
+[Thu Nov 10 15:57:51 2022] 127.0.0.1:38312 Closing
+[Thu Nov 10 15:58:03 2022] 127.0.0.1:38314 Accepted
+[Thu Nov 10 15:58:03 2022] 127.0.0.1:38314 [500]: GET /api/login
+[Thu Nov 10 15:58:03 2022] 127.0.0.1:38314 Closing
+[Thu Nov 10 15:59:29 2022] 127.0.0.1:38316 Accepted
+[Thu Nov 10 15:59:29 2022] 127.0.0.1:38316 [500]: GET /api/login
+[Thu Nov 10 15:59:29 2022] 127.0.0.1:38316 Closing
+[Thu Nov 10 16:28:50 2022] 127.0.0.1:38318 Accepted
+[Thu Nov 10 16:28:50 2022] 127.0.0.1:38318 [200]: GET /api/login
+[Thu Nov 10 16:28:50 2022] 127.0.0.1:38318 Closing
+[Thu Nov 10 17:05:09 2022] 127.0.0.1:38320 Accepted
+[Thu Nov 10 17:05:09 2022] 127.0.0.1:38320 [200]: GET /api/commando/undefined
+[Thu Nov 10 17:05:09 2022] 127.0.0.1:38320 Closing
+[Thu Nov 10 17:05:09 2022] 127.0.0.1:38322 Accepted
+[Thu Nov 10 17:05:09 2022] 127.0.0.1:38322 [200]: GET /api/commando/undefined
+[Thu Nov 10 17:05:09 2022] 127.0.0.1:38322 Closing
+[Thu Nov 10 17:10:03 2022] 127.0.0.1:38324 Accepted
+[Thu Nov 10 17:10:03 2022] 127.0.0.1:38324 [200]: GET /api/commando
+[Thu Nov 10 17:10:03 2022] 127.0.0.1:38324 Closing
+[Thu Nov 10 17:10:04 2022] 127.0.0.1:38326 Accepted
+[Thu Nov 10 17:10:04 2022] 127.0.0.1:38326 [200]: GET /api/commando
+[Thu Nov 10 17:10:04 2022] 127.0.0.1:38326 Closing
+[Thu Nov 10 17:11:12 2022] 127.0.0.1:38328 Accepted
+[Thu Nov 10 17:11:12 2022] 127.0.0.1:38328 [200]: POST /api/auth/login/ewwewwe
+[Thu Nov 10 17:11:12 2022] 127.0.0.1:38328 Closing
+[Thu Nov 10 17:11:23 2022] 127.0.0.1:38332 Accepted
+[Thu Nov 10 17:11:23 2022] 127.0.0.1:38332 [200]: GET /api/auth/login/ewwewwe
+[Thu Nov 10 17:11:23 2022] 127.0.0.1:38332 Closing
+[Thu Nov 10 17:11:35 2022] 127.0.0.1:38334 Accepted
+[Thu Nov 10 17:11:35 2022] 127.0.0.1:38334 [200]: GET /api/auth/login/ewwewwe
+[Thu Nov 10 17:11:35 2022] 127.0.0.1:38334 Closing
+[Thu Nov 10 17:13:24 2022] 127.0.0.1:38336 Accepted
+[Thu Nov 10 17:13:24 2022] 127.0.0.1:38336 [200]: POST /api/auth/login/aA
+[Thu Nov 10 17:13:24 2022] 127.0.0.1:38336 Closing
+[Thu Nov 10 17:16:51 2022] 127.0.0.1:38340 Accepted
+[Thu Nov 10 17:16:51 2022] 127.0.0.1:38340 [200]: GET /api/commando
+[Thu Nov 10 17:16:51 2022] 127.0.0.1:38340 Closing
+[Thu Nov 10 17:16:52 2022] 127.0.0.1:38342 Accepted
+[Thu Nov 10 17:16:52 2022] 127.0.0.1:38342 [200]: GET /api/commando
+[Thu Nov 10 17:16:52 2022] 127.0.0.1:38342 Closing
+[Thu Nov 10 17:16:54 2022] 127.0.0.1:38344 Accepted
+[Thu Nov 10 17:16:54 2022] 127.0.0.1:38344 [200]: GET /api/commando/97b5ee04-fc75-498f-b010-d4729ebfe958
+[Thu Nov 10 17:16:54 2022] 127.0.0.1:38344 Closing
+[Thu Nov 10 17:16:54 2022] 127.0.0.1:38346 Accepted
+[Thu Nov 10 17:16:54 2022] 127.0.0.1:38346 [200]: GET /api/commando/97b5ee04-fc75-498f-b010-d4729ebfe958
+[Thu Nov 10 17:16:54 2022] 127.0.0.1:38346 Closing
+[Thu Nov 10 17:16:57 2022] 127.0.0.1:38348 Accepted
+[Thu Nov 10 17:16:57 2022] 127.0.0.1:38348 [200]: GET /api/commando
+[Thu Nov 10 17:16:57 2022] 127.0.0.1:38348 Closing
+[Thu Nov 10 17:16:57 2022] 127.0.0.1:38350 Accepted
+[Thu Nov 10 17:16:57 2022] 127.0.0.1:38350 [200]: GET /api/commando
+[Thu Nov 10 17:16:57 2022] 127.0.0.1:38350 Closing
