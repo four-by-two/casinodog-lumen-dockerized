@@ -22,10 +22,8 @@
 - uuid
 
 ## Casino Side
-Refactoring and cleaning up for API only casino games.
-
-
-## Up and running
+Refactoring and cleaning up for API only casino games. It's wip and will be not so much focussed on quantity of providers but on making productional for all to download.
+<img width="100%" alt="screenshot 2019-02-07 08 26 51" src="https://raw.githubusercontent.com/four-by-two/casinodog-lumen-dockerized/dev/Screenshot from 2022-11-16 21-25-10.png">
 
 ### Environment: develop
 The oficial php image from Google Cloud Platform is updated once in a lifetime so I decided to manage my own php images at http://github.com/ibrunotome/php
