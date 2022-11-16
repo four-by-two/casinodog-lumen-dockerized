@@ -1,3 +1,10 @@
+## Development
+This is currently in development, if you want to get 2000+ casino games etc all:
+https://github.com/four-by-two/wainwright-installer.sh (installer for fresh instance/serv installing the 2 packages below)
+https://github.com/four-by-two/casinodog-dev (main package)
+https://github.com/four-by-two/casinodog-api-client (callback package for operator/casinos)
+
+
 ## Base Lumen API Features
 
 - 2FA
