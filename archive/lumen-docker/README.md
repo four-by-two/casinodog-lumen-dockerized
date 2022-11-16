@@ -1,16 +1,4 @@
-
-
-
----------------
-> Not maintained anymore. Today Laravel has almost all these features natively, and I just use the standard skeleton/structure.
----------------
-
-## What is it
-
-
-This is a starter kit for your next API using Laravel, implemented with more than one structure, all battle-tested with the same features listed below.
-
-## Features
+## Base Lumen API Features
 
 - 2FA
 - ACL
@@ -33,16 +21,13 @@ This is a starter kit for your next API using Laravel, implemented with more tha
 - Transactional events: Listen to events and send notifications only if the transaction is commited
 - uuid
 
-Soon:
+## Casino Side
+Refactoring and cleaning up for API only casino games.
 
-- Background job example
 
 ## Up and running
 
 ### Environment: develop
-
-~~The container used is created from Google Cloud Platform official php-docker + swoole and can be found here: https://github.com/ibrunotome/docker-laravel-appengine~~
-
 The oficial php image from Google Cloud Platform is updated once in a lifetime so I decided to manage my own php images at http://github.com/ibrunotome/php
 
 - Set the .env variables, see .env.example that is already configured to point to pgsql and redis services
@@ -51,6 +36,13 @@ The oficial php image from Google Cloud Platform is updated once in a lifetime s
   [Blimp](https://kelda.io/blimp).
 - Enter into app container with `docker exec -it default-structure-app bash`
 - Run the migrations with `php artisan migrate:fresh`
+- Run `php artisan db:seed` to set default keys
+- Run `php artisan key:generate` to generate secret hash
+- Run `php artisan jwt:secret` to set JWT auth secret
+- Run `php artisan casinodog:restore-default-gameslist {provider_name} upsert` to import games for specific provider
+- Run `php artisan casinodog:generate-salt` to generate random salt used in callback/casino session signing
+
+Check config/casinodog.php for more settings, make sure to set .env properly.
 
 And it's up and running :)
 
@@ -83,36 +75,3 @@ See the contents of the `.k8s` folder :)
 ## Routes
 
 <img width="100%" alt="Screen Shot 2019-05-26 at 17 56 41" src="https://user-images.githubusercontent.com/4256471/88347112-56f89280-cd20-11ea-867e-b8b11d0ee256.png">
-
-## Author
-
-<table>
-  <tbody>
-    <tr>
-      <td align="center" valign="middle">
-        <a href="https://github.com/ibrunotome" target="_blank">
-          <img width="115px" src="https://avatars3.githubusercontent.com/u/4256471?v=4" alt="ibrunotome"><br>@ibrunotome
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-## Contributors
-
-<table>
-  <tbody>
-    <tr>
-      <td align="center" valign="middle">
-        <a href="https://github.com/crcms" target="_blank">
-          <img width="115px" src="https://avatars1.githubusercontent.com/u/22486914?v=4" alt="crcms"><br>@crcms
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://github.com/ejj" target="_blank">
-          <img width="115px" src="https://avatars3.githubusercontent.com/u/620438?s=460&v=4" alt="ejj"><br>@ejj
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
