@@ -15,7 +15,7 @@ This is currently in development, if you want to get 2000+ casino games etc all:
 - Device authorization
 - Etag
 - Horizon
-- Laravel [8.x](https://github.com/ibrunotome/laravel-api-templates/tree/v8.x), [7.x](https://github.com/ibrunotome/laravel-api-templates/tree/v7.x), [6.x](https://github.com/ibrunotome/laravel-api-templates/tree/v6.x), [5.8](https://github.com/ibrunotome/laravel-api-templates/tree/v5.8)
+- Lumen (9x)
 - Login
 - Login history
 - Multiple localizations, preconfigured with en_US and pt_BR
